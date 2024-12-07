@@ -1,13 +1,13 @@
 {
   "part 1": {
-    "question": "<Кто ты?>",
+    "question": "<Who are you?>",
     "options 1": "<Ответ 1>",
     "options 2": "<Ответ 2>",
     "options 3": "<Ответ 3>",
     "answer": "<Ответ 2>"
   },
   "part 2": {
-    "question": "<Что ты?>",
+    "question": "<What are you?>",
     "options 1": "<Ответ 1>",
     "options 2": "<Ответ 2>",
     "options 3": "<Ответ 3>",
