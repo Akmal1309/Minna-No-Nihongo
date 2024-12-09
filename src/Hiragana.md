@@ -1,14 +1,14 @@
-<table>
-<thead>
-<tr>
-<th style="text-align:center"></th>
-<th style="text-align:center"><strong>a</strong></th>
-<th style="text-align:center"><strong>i</strong></th>
-<th style="text-align:center"><strong>u</strong></th>
-<th style="text-align:center"><strong>e</strong></th>
-<th style="text-align:center"><strong>o</strong></th>
-</tr>
-</thead>
+<table style="width: 100%; border-collapse: collapse; border: 1px solid black;">
+  <thead>
+    <tr>
+      <th style="text-align:center; width: 20%;"> </th>
+      <th style="text-align:center; width: 16%;"><strong>a</strong></th>
+      <th style="text-align:center; width: 16%;"><strong>i</strong></th>
+      <th style="text-align:center; width: 16%;"><strong>u</strong></th>
+      <th style="text-align:center; width: 16%;"><strong>e</strong></th>
+      <th style="text-align:center; width: 16%;"><strong>o</strong></th>
+    </tr>
+  </thead>
 <tbody>
 <tr>
 <td style="text-align:center"></td>
