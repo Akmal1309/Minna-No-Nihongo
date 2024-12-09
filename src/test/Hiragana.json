@@ -1,0 +1,324 @@
+{
+  "part 1": {
+    "question": "A",
+    "options 1": "い",
+    "options 2": "う",
+    "options 3": "あ",
+    "answer": "あ"
+  },
+  "part 2": {
+    "question": "I",
+    "options 1": "あ",
+    "options 2": "い",
+    "options 3": "う",
+    "answer": "い"
+  },
+  "part 3": {
+    "question": "U",
+    "options 1": "い",
+    "options 2": "う",
+    "options 3": "え",
+    "answer": "う"
+  },
+  "part 4": {
+    "question": "E",
+    "options 1": "あ",
+    "options 2": "え",
+    "options 3": "お",
+    "answer": "え"
+  },
+  "part 5": {
+    "question": "O",
+    "options 1": "お",
+    "options 2": "え",
+    "options 3": "か",
+    "answer": "お"
+  },
+  "part 6": {
+    "question": "Ka",
+    "options 1": "き",
+    "options 2": "く",
+    "options 3": "か",
+    "answer": "か"
+  },
+  "part 7": {
+    "question": "Ki",
+    "options 1": "き",
+    "options 2": "け",
+    "options 3": "こ",
+    "answer": "き"
+  },
+  "part 8": {
+    "question": "Ku",
+    "options 1": "き",
+    "options 2": "く",
+    "options 3": "け",
+    "answer": "く"
+  },
+  "part 9": {
+    "question": "Ke",
+    "options 1": "け",
+    "options 2": "こ",
+    "options 3": "き",
+    "answer": "け"
+  },
+  "part 10": {
+    "question": "Ko",
+    "options 1": "こ",
+    "options 2": "け",
+    "options 3": "さ",
+    "answer": "こ"
+  },
+  "part 11": {
+    "question": "Sa",
+    "options 1": "し",
+    "options 2": "す",
+    "options 3": "さ",
+    "answer": "さ"
+  },
+  "part 12": {
+    "question": "Shi",
+    "options 1": "し",
+    "options 2": "す",
+    "options 3": "せ",
+    "answer": "し"
+  },
+  "part 13": {
+    "question": "Su",
+    "options 1": "し",
+    "options 2": "す",
+    "options 3": "せ",
+    "answer": "す"
+  },
+  "part 14": {
+    "question": "Se",
+    "options 1": "せ",
+    "options 2": "そ",
+    "options 3": "し",
+    "answer": "せ"
+  },
+  "part 15": {
+    "question": "So",
+    "options 1": "せ",
+    "options 2": "そ",
+    "options 3": "し",
+    "answer": "そ"
+  },
+  "part 16": {
+    "question": "Ta",
+    "options 1": "ち",
+    "options 2": "つ",
+    "options 3": "た",
+    "answer": "た"
+  },
+  "part 17": {
+    "question": "Chi",
+    "options 1": "ち",
+    "options 2": "つ",
+    "options 3": "て",
+    "answer": "ち"
+  },
+  "part 18": {
+    "question": "Tsu",
+    "options 1": "つ",
+    "options 2": "ち",
+    "options 3": "て",
+    "answer": "つ"
+  },
+  "part 19": {
+    "question": "Te",
+    "options 1": "ち",
+    "options 2": "つ",
+    "options 3": "て",
+    "answer": "て"
+  },
+  "part 20": {
+    "question": "To",
+    "options 1": "と",
+    "options 2": "な",
+    "options 3": "に",
+    "answer": "と"
+  },
+  "part 21": {
+    "question": "Na",
+    "options 1": "な",
+    "options 2": "に",
+    "options 3": "ぬ",
+    "answer": "な"
+  },
+  "part 22": {
+    "question": "Ni",
+    "options 1": "な",
+    "options 2": "に",
+    "options 3": "ぬ",
+    "answer": "に"
+  },
+  "part 23": {
+    "question": "Nu",
+    "options 1": "な",
+    "options 2": "に",
+    "options 3": "ぬ",
+    "answer": "ぬ"
+  },
+  "part 24": {
+    "question": "Ne",
+    "options 1": "ね",
+    "options 2": "ぬ",
+    "options 3": "に",
+    "answer": "ね"
+  },
+  "part 25": {
+    "question": "No",
+    "options 1": "の",
+    "options 2": "ね",
+    "options 3": "ぬ",
+    "answer": "の"
+  },
+  "part 26": {
+    "question": "Ha",
+    "options 1": "は",
+    "options 2": "ひ",
+    "options 3": "ふ",
+    "answer": "は"
+  },
+  "part 27": {
+    "question": "Hi",
+    "options 1": "ひ",
+    "options 2": "ふ",
+    "options 3": "へ",
+    "answer": "ひ"
+  },
+  "part 28": {
+    "question": "Fu",
+    "options 1": "ふ",
+    "options 2": "へ",
+    "options 3": "ひ",
+    "answer": "ふ"
+  },
+  "part 29": {
+    "question": "He",
+    "options 1": "へ",
+    "options 2": "ほ",
+    "options 3": "ひ",
+    "answer": "へ"
+  },
+  "part 30": {
+    "question": "Ho",
+    "options 1": "ほ",
+    "options 2": "へ",
+    "options 3": "ひ",
+    "answer": "ほ"
+  },
+  "part 31": {
+    "question": "Ma",
+    "options 1": "ま",
+    "options 2": "み",
+    "options 3": "む",
+    "answer": "ま"
+  },
+  "part 32": {
+    "question": "Mi",
+    "options 1": "ま",
+    "options 2": "み",
+    "options 3": "む",
+    "answer": "み"
+  },
+  "part 33": {
+    "question": "Mu",
+    "options 1": "ま",
+    "options 2": "み",
+    "options 3": "む",
+    "answer": "む"
+  },
+  "part 34": {
+    "question": "Me",
+    "options 1": "め",
+    "options 2": "む",
+    "options 3": "み",
+    "answer": "め"
+  },
+  "part 35": {
+    "question": "Mo",
+    "options 1": "も",
+    "options 2": "め",
+    "options 3": "み",
+    "answer": "も"
+  },
+  "part 36": {
+    "question": "Ya",
+    "options 1": "や",
+    "options 2": "ゆ",
+    "options 3": "よ",
+    "answer": "や"
+  },
+  "part 37": {
+    "question": "Yu",
+    "options 1": "や",
+    "options 2": "ゆ",
+    "options 3": "よ",
+    "answer": "ゆ"
+  },
+  "part 38": {
+    "question": "Yo",
+    "options 1": "や",
+    "options 2": "ゆ",
+    "options 3": "よ",
+    "answer": "よ"
+  },
+  "part 39": {
+    "question": "Ra",
+    "options 1": "ら",
+    "options 2": "り",
+    "options 3": "る",
+    "answer": "ら"
+  },
+  "part 40": {
+    "question": "Ri",
+    "options 1": "ら",
+    "options 2": "り",
+    "options 3": "る",
+    "answer": "り"
+  },
+  "part 41": {
+    "question": "Ru",
+    "options 1": "ら",
+    "options 2": "り",
+    "options 3": "る",
+    "answer": "る"
+  },
+  "part 42": {
+    "question": "Re",
+    "options 1": "れ",
+    "options 2": "る",
+    "options 3": "り",
+    "answer": "れ"
+  },
+  "part 43": {
+    "question": "Ro",
+    "options 1": "ろ",
+    "options 2": "れ",
+    "options 3": "り",
+    "answer": "ろ"
+  },
+  "part 44": {
+    "question": "Wa",
+    "options 1": "わ",
+    "options 2": "を",
+    "options 3": "ん",
+    "answer": "わ"
+  },
+  "part 45": {
+    "question": "Wo",
+    "options 1": "を",
+    "options 2": "わ",
+    "options 3": "ん",
+    "answer": "を"
+  },
+  "part 46": {
+    "question": "N",
+    "options 1": "ん",
+    "options 2": "わ",
+    "options 3": "を",
+    "answer": "ん"
+  }
+}
