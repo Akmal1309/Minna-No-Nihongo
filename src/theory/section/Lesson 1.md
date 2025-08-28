@@ -1,7 +1,10 @@
+
+
+
 | English               | Kana           | Kanji    | Romanji                    | Meaning                                        |
 | :-------------------- | :------------- | :------- | :------------------------- | ---------------------------------------------- |
 | I                     | わたし            | 私        | watashi                    |                                                |
-| we                    | わたしたち          | 私たち      |                            |                                                |
+| we                    | わたしたち          | 私たち      | watashitachi               |                                                |
 | you                   | あなた            |          | anata                      |                                                |
 | that person           | あのひと           | あの人      | anohito                    |                                                |
 |                       | あのかた           | あの　方     | anokata                    | the polite version                             |
