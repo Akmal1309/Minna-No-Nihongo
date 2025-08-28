@@ -1,39 +1,39 @@
-<h1 style="color: red;">Lesson 1</h1>
-
-|    Japanese     |    Kanji     |                               English                               |
-| :-------------: | :----------: | :-----------------------------------------------------------------: |
-|       わたし       |      私       |                                  I                                  |
-|      わたしたち      |      私達      |                                 we                                  |
-|       あなた       |      貴方      |                                 you                                 |
-|      あのひと       |     あの人      |                        that person, he, she                         |
-|      あのかた       |     あの方      |                      polite equivalent of あのひと                      |
-|      みなさん       |     皆さん      |                  ladies and gentlemen, all of you                   |
-|       ~さん       |              |             Mr., Ms. (title of respect added to a name)             |
-|      ~ちゃん       |              |      (suffix often added to a child's name<br>instead of ~さん)       |
-|       ~くん       |      ~君      |                (suffix often added to a boy's name)                 |
-|       ~じん       |      ~人      |              (suffix meaning "a national of"; e.g, アメ               |
-|      せんせい       |      先生      |   teacher, instructor (not used when referring to one's own job)    |
-|      きょうし       |      教師      |                         teacher, instructor                         |
-|      がくせい       |      学生      |                               student                               |
-|     かいしゃいん      |     会社員      |                          company employee                           |
-|      しゃいん       |      社員      | employee of ~ Company (used with a company's name; e.g., IMC のしゃいん) |
-|     ぎんこういん      |     銀行員      |                            bank employee                            |
-|       いしゃ       |      医者      |                           medical doctor                            |
-|     けんきゅうしゃ     |     研究者      |                         researcher, scholar                         |
-|      エンジニア      |              |                              engineer                               |
-|      だいがく       |      大学      |                             university                              |
-|      びょういん      |      病院      |                              hospital                               |
-|       でんき       |      電気      |                         electricity, light                          |
-|       だれ        |      誰       |                                 who                                 |
-|       どなた       |      何方      |                       polite equivalent of だれ                       |
-|       〜さい       |      〜歳      |                             ~ years old                             |
-|      なんさい       |      何歳      |                               how old                               |
-|      おいくつ       |     お幾つ      |                       polite equivalent なんさい                        |
-|       はい        |              |                                 yes                                 |
-|       いいえ       |              |                                 no                                  |
-|     しつれいですが     |    失礼ですが     |                           Excuse me, but                            |
-|     おなまえは?      |    お名前は?     |                        May I have your name?                        |
-|     はじめまして。     |    初めまして。    |                           How do you do?                            |
-| どうぞよろしく おねがいします | どうも宜しくお願いします |                        Pleased to meet you.                         |
-|   こちらは~さんです。    |   此方は~さんです   |                         This is Mr./Ms. ~.                          |
-|     ~からきました     |   ~から来ました    |                        I came (come) from ~.                        |
+| English               | Kana           | Kanji    | Romanji                    | Meaning                                        |
+| :-------------------- | :------------- | :------- | :------------------------- | ---------------------------------------------- |
+| I                     | わたし            | 私        | watashi                    |                                                |
+| we                    | わたしたち          | 私たち      |                            |                                                |
+| you                   | あなた            |          | anata                      |                                                |
+| that person           | あのひと           | あの人      | anohito                    |                                                |
+|                       | あのかた           | あの　方     | anokata                    | the polite version                             |
+| we                    | みなさん           | 皆さん      | minasan                    | everybody, all of you                          |
+| Mr./Mrs               | ～さん            |          | ～san                       | title of respect                               |
+|                       | ～ちゃん           |          | ～chyan                     | suffix added to child's name's                 |
+|                       | ～くん            | ～君       | ～kun                       | suffix often added to boy's names              |
+|                       | ～じん            | ～人       | ～jin                       | suffix meaning nationality                     |
+| teacher               | せんせい           | 先生       | sensei                     |                                                |
+| instuctor             | きょうし           | 教室       | kyoushi                    |                                                |
+| student               | がくせい           | 学生       | gakusei                    |                                                |
+| company employee      | かいしゃいん         | 会社員      | kaishyain                  |                                                |
+|                       | しゃいん           | 社員       | shain                      | employee of company                            |
+| bank employee         | ぎんこういん         | 銀行員      | ginkouin                   |                                                |
+| medical doctor        | いしゃ            | 医者       | isha                       |                                                |
+| researcher            | けんきゅうしゃ        | 研究者      | kenkyuusha                 |                                                |
+| engineer              | エンジニア          |          | enjinia                    |                                                |
+| university            | だいがく           | 大学       | daigaku                    |                                                |
+| hospital              | びょういん          | 病院       | byouin                     |                                                |
+| electricity/light     | でんき            | 電気       | denki                      |                                                |
+| who                   | だれ             | 誰        | dare                       |                                                |
+|                       | どなた            | 何方       | donata                     | the polite equivalent of だれ                    |
+| ー years old           | ～さい            | ～歳       | ～sai                       |                                                |
+| how old               | なんさい           | 何歳       | nansai                     |                                                |
+|                       | あいくつ           |          | aikutsu                    | the polite equivalent of なんさい                  |
+| yes                   | はい             |          | hai                        |                                                |
+| no                    | いいえ            |          | iie                        |                                                |
+| how old               | なんさい           | 何歳       | nansai                     |                                                |
+|                       | おいくつ           |          | oikutsu                    | the polite version of なんさい                     |
+| Excuse me, but        | しつれいですが        | 失礼ですが    | shitsureidesuga            |                                                |
+| May I have your name? | おなまえは？         | お名前は？    | onamaewa?                  |                                                |
+| How do you do         | はじめまして。        | 初めまして。   | hajimemashite              | usually used at the first meeting              |
+| Please be nice to me  | どぞよろしくおねがいします。 |          | dozoyoroshiku onegaishimas | usually used at the end of a self-introduction |
+| This is Mr./Ms.       | こちらわ～さんです。     |          | kochirawa～sandes           |                                                |
+| I came from           | ～からきました。       | ～から来ました。 | ～karakimashita             |                                                |
