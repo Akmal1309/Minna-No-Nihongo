@@ -1,0 +1,387 @@
+{
+    "part 1": {
+        "question": "understand",
+        "options 1": "わかります",
+        "options 2": "カラオケ",
+        "options 3": "やきゅう",
+        "answer": "わかります"
+    },
+    "part 2": {
+        "question": "have",
+        "options 1": "ごじゅじん",
+        "options 2": "あります",
+        "options 3": "やきゅうをします",
+        "answer": "あります"
+    },
+    "part 3": {
+        "question": "like",
+        "options 1": "ぜんぜん",
+        "options 2": "じょうず",
+        "options 3": "すき",
+        "answer": "すき"
+    },
+    "part 4": {
+        "question": "dislike",
+        "options 1": "きらい",
+        "options 2": "スポーツをします",
+        "options 3": "チケット",
+        "answer": "きらい"
+    },
+    "part 5": {
+        "question": "good at",
+        "options 1": "じょうず",
+        "options 2": "え",
+        "options 3": "ようじ",
+        "answer": "じょうず"
+    },
+    "part 6": {
+        "question": "poor at",
+        "options 1": "へた",
+        "options 2": "~から",
+        "options 3": "チケット",
+        "answer": "へた"
+    },
+    "part 7": {
+        "question": "dish (cooked food), cooking",
+        "options 1": "ローマじ",
+        "options 2": "ダンス",
+        "options 3": "りょうり",
+        "answer": "りょうり"
+    },
+    "part 8": {
+        "question": "drinks",
+        "options 1": "~はちょっと",
+        "options 2": "いっしょうにいかがですか。",
+        "options 3": "のみもの",
+        "answer": "のみもの"
+    },
+    "part 9": {
+        "question": "sports",
+        "options 1": "スポーツ",
+        "options 2": "~はちょっと",
+        "options 3": "じ",
+        "answer": "スポーツ"
+    },
+    "part 10": {
+        "question": "play sports",
+        "options 1": "スポーツをします",
+        "options 2": "かない",
+        "options 3": "のみもの",
+        "answer": "スポーツをします"
+    },
+    "part 11": {
+        "question": "baseball",
+        "options 1": "おっと",
+        "options 2": "じ",
+        "options 3": "やきゅう",
+        "answer": "やきゅう"
+    },
+    "part 12": {
+        "question": "play baseball",
+        "options 1": "ようじ",
+        "options 2": "やきゅうをします",
+        "options 3": "りょうり",
+        "answer": "やきゅうをします"
+    },
+    "part 13": {
+        "question": "dance",
+        "options 1": "すみません",
+        "options 2": "ダンス",
+        "options 3": "こまかいおかね",
+        "answer": "ダンス"
+    },
+    "part 14": {
+        "question": "dance (to dance)",
+        "options 1": "ダンスをします",
+        "options 2": "いっしょうにいかがですか。",
+        "options 3": "おんがく",
+        "answer": "ダンスをします"
+    },
+    "part 15": {
+        "question": "music",
+        "options 1": "コンサート",
+        "options 2": "おんがく",
+        "options 3": "つま",
+        "answer": "おんがく"
+    },
+    "part 16": {
+        "question": "song",
+        "options 1": "うた",
+        "options 2": "ごじゅじん",
+        "options 3": "いっしょうにいかがですか。",
+        "answer": "うた"
+    },
+    "part 17": {
+        "question": "classical music",
+        "options 1": "かない",
+        "options 2": "クラシック",
+        "options 3": "すみません",
+        "answer": "クラシック"
+    },
+    "part 18": {
+        "question": "jazz",
+        "options 1": "ジャズ",
+        "options 2": "いっしょうにいかがですか。",
+        "options 3": "カラオケ",
+        "answer": "ジャズ"
+    },
+    "part 19": {
+        "question": "concert",
+        "options 1": "コンサート",
+        "options 2": "つま",
+        "options 3": "おくさん",
+        "answer": "コンサート"
+    },
+    "part 20": {
+        "question": "karaoke",
+        "options 1": "カラオケ",
+        "options 2": "ジャズ",
+        "options 3": "おんがく",
+        "answer": "カラオケ"
+    },
+    "part 21": {
+        "question": "Kabuki (traditional Japanese musical drama)",
+        "options 1": "かぶき",
+        "options 2": "ざんねんです",
+        "options 3": "のみもの",
+        "answer": "かぶき"
+    },
+    "part 22": {
+        "question": "picture, drawing",
+        "options 1": "え",
+        "options 2": "ジャズ",
+        "options 3": "~はちょっと",
+        "answer": "え"
+    },
+    "part 23": {
+        "question": "letter, character",
+        "options 1": "もしもし",
+        "options 2": "じ",
+        "options 3": "~はちょっと",
+        "answer": "じ"
+    },
+    "part 24": {
+        "question": "Chinese characters",
+        "options 1": "かんじ",
+        "options 2": "またこんどおねがいしいます",
+        "options 3": "え",
+        "answer": "かんじ"
+    },
+    "part 25": {
+        "question": "Hiragana script",
+        "options 1": "だめですか",
+        "options 2": "ひらがな",
+        "options 3": "おんがく",
+        "answer": "ひらがな"
+    },
+    "part 26": {
+        "question": "Katakana script",
+        "options 1": "かたかな",
+        "options 2": "ごじゅじん",
+        "options 3": "こまかいおかね",
+        "answer": "かたかな"
+    },
+    "part 27": {
+        "question": "the Roman alphabet",
+        "options 1": "おくさん",
+        "options 2": "ローマじ",
+        "options 3": "じ",
+        "answer": "ローマじ"
+    },
+    "part 28": {
+        "question": "small change",
+        "options 1": "かたかな",
+        "options 2": "りょうり",
+        "options 3": "こまかいおかね",
+        "answer": "こまかいおかね"
+    },
+    "part 29": {
+        "question": "ticket",
+        "options 1": "チケット",
+        "options 2": "だめですか",
+        "options 3": "ようじ",
+        "answer": "チケット"
+    },
+    "part 30": {
+        "question": "time",
+        "options 1": "よく",
+        "options 2": "じかん",
+        "options 3": "ダンスをします",
+        "answer": "じかん"
+    },
+    "part 31": {
+        "question": "something to do, errand",
+        "options 1": "ようじ",
+        "options 2": "おっと",
+        "options 3": "きらい",
+        "answer": "ようじ"
+    },
+    "part 32": {
+        "question": "promise",
+        "options 1": "やくそく",
+        "options 2": "おくさん",
+        "options 3": "どうして",
+        "answer": "やくそく"
+    },
+    "part 33": {
+        "question": "someone else’s husband",
+        "options 1": "ごじゅじん",
+        "options 2": "ぜんぜん",
+        "options 3": "クラシック",
+        "answer": "ごじゅじん"
+    },
+    "part 34": {
+        "question": "my husband",
+        "options 1": "コンサート",
+        "options 2": "おっと",
+        "options 3": "こども",
+        "answer": "おっと"
+    },
+    "part 35": {
+        "question": "my husband (alt.)",
+        "options 1": "へた",
+        "options 2": "コンサート",
+        "options 3": "じゅじん",
+        "answer": "じゅじん"
+    },
+    "part 36": {
+        "question": "someone else’s wife",
+        "options 1": "おくさん",
+        "options 2": "ざんねんです",
+        "options 3": "ダンス",
+        "answer": "おくさん"
+    },
+    "part 37": {
+        "question": "my wife",
+        "options 1": "ようじ",
+        "options 2": "やきゅう",
+        "options 3": "つま",
+        "answer": "つま"
+    },
+    "part 38": {
+        "question": "my wife (alt.)",
+        "options 1": "かぶき",
+        "options 2": "え",
+        "options 3": "かない",
+        "answer": "かない"
+    },
+    "part 39": {
+        "question": "child",
+        "options 1": "こども",
+        "options 2": "ダンス",
+        "options 3": "ざんねんです",
+        "answer": "こども"
+    },
+    "part 40": {
+        "question": "well, much",
+        "options 1": "よく",
+        "options 2": "のみもの",
+        "options 3": "きらい",
+        "answer": "よく"
+    },
+    "part 41": {
+        "question": "mostly, roughly",
+        "options 1": "カラオケ",
+        "options 2": "だいたい",
+        "options 3": "ああ",
+        "answer": "だいたい"
+    },
+    "part 42": {
+        "question": "many, much",
+        "options 1": "おっと",
+        "options 2": "だめですか",
+        "options 3": "たくさん",
+        "answer": "たくさん"
+    },
+    "part 43": {
+        "question": "a little, a few",
+        "options 1": "すこし",
+        "options 2": "ジャズ",
+        "options 3": "じゅじん",
+        "answer": "すこし"
+    },
+    "part 44": {
+        "question": "not at all (used with negatives)",
+        "options 1": "ぜんぜん",
+        "options 2": "きらい",
+        "options 3": "カラオケ",
+        "answer": "ぜんぜん"
+    },
+    "part 45": {
+        "question": "early, quickly, fast",
+        "options 1": "はやく",
+        "options 2": "じかん",
+        "options 3": "やくそく",
+        "answer": "はやく"
+    },
+    "part 46": {
+        "question": "because~",
+        "options 1": "よく",
+        "options 2": "じょうず",
+        "options 3": "~から",
+        "answer": "~から"
+    },
+    "part 47": {
+        "question": "why",
+        "options 1": "クラシック",
+        "options 2": "どうして",
+        "options 3": "おんがく",
+        "answer": "どうして"
+    },
+    "part 48": {
+        "question": "I’m sorry (to hear that)/That’s a pity",
+        "options 1": "ダンス",
+        "options 2": "かない",
+        "options 3": "ざんねんです",
+        "answer": "ざんねんです"
+    },
+    "part 49": {
+        "question": "I’m sorry",
+        "options 1": "じゅじん",
+        "options 2": "かたかな",
+        "options 3": "すみません",
+        "answer": "すみません"
+    },
+    "part 50": {
+        "question": "hello (used on phone)",
+        "options 1": "もしもし",
+        "options 2": "またこんどおねがいしいます",
+        "options 3": "たくさん",
+        "answer": "もしもし"
+    },
+    "part 51": {
+        "question": "oh",
+        "options 1": "ローマじ",
+        "options 2": "きらい",
+        "options 3": "ああ",
+        "answer": "ああ"
+    },
+    "part 52": {
+        "question": "Won’t you join me (us)?",
+        "options 1": "いっしょうにいかがですか。",
+        "options 2": "かない",
+        "options 3": "チケット",
+        "answer": "いっしょうにいかがですか。"
+    },
+    "part 53": {
+        "question": "~is a bit difficult (used when declining an invitation politely)",
+        "options 1": "ああ",
+        "options 2": "きらい",
+        "options 3": "~はちょっと",
+        "answer": "~はちょっと"
+    },
+    "part 54": {
+        "question": "So you cannot (come)?",
+        "options 1": "だめですか",
+        "options 2": "りょうり",
+        "options 3": "え",
+        "answer": "だめですか"
+    },
+    "part 55": {
+        "question": "please ask me again some other time (refusing indirectly, politely)",
+        "options 1": "ダンスをします",
+        "options 2": "はやく",
+        "options 3": "またこんどおねがいしいます",
+        "answer": "またこんどおねがいしいます"
+    }
+}
