@@ -1,0 +1,252 @@
+[
+  {
+    "question": "this",
+    "options": ["これ (kore)", "あれ (are)", "その～ (sono～)"],
+    "answer": "これ (kore)"
+  },
+  {
+    "question": "that",
+    "options": ["それ (sore)", "ほん / 本 (hon)", "テレホンカード (terehonkaado)"],
+    "answer": "それ (sore)"
+  },
+  {
+    "question": "that (over there)",
+    "options": ["あれ (are)", "じしょ / 辞書 (jisho)", "かぎ / 鍵 (kagi)"],
+    "answer": "あれ (are)"
+  },
+  {
+    "question": "this～",
+    "options": ["この～ (kono～)", "その～ (sono～)", "あの～ (ano～)"],
+    "answer": "この～ (kono～)"
+  },
+  {
+    "question": "that～",
+    "options": ["その～ (sono～)", "あの～ (ano～)", "ほん / 本 (hon)"],
+    "answer": "その～ (sono～)"
+  },
+  {
+    "question": "that～ (over there)",
+    "options": ["あの～ (ano～)", "ノート (notto)", "じしょ / 辞書 (jisho)"],
+    "answer": "あの～ (ano～)"
+  },
+  {
+    "question": "book",
+    "options": ["ほん / 本 (hon)", "ざっし / 雑誌 (zasshi)", "にほんご / 日本語 (nihongo)"],
+    "answer": "ほん / 本 (hon)"
+  },
+  {
+    "question": "dictionary",
+    "options": ["じしょ / 辞書 (jisho)", "かばん / 鞄 (kaban)", "コーヒー (kouhii)"],
+    "answer": "じしょ / 辞書 (jisho)"
+  },
+  {
+    "question": "magazine",
+    "options": ["ざっし / 雑誌 (zasshi)", "ちがいます / 違います (chigaimasu)", "テープレコーダー (teepurekodaa)"],
+    "answer": "ざっし / 雑誌 (zasshi)"
+  },
+  {
+    "question": "newspaper",
+    "options": ["しんぶん / 新聞 (shinbun)", "チョコレート (chokoreito)", "つくえ / 机 (tsukue)"],
+    "answer": "しんぶん / 新聞 (shinbun)"
+  },
+  {
+    "question": "notebook",
+    "options": ["ノート (notto)", "てちょう / 手帳 (techou)", "くるま / 車 (kuruma)"],
+    "answer": "ノート (notto)"
+  },
+  {
+    "question": "pocket notebook",
+    "options": ["てちょう / 手帳 (techou)", "ボールペン (bourupen)", "テレビ (terebi)"],
+    "answer": "てちょう / 手帳 (techou)"
+  },
+  {
+    "question": "business card",
+    "options": ["めいし / 名刺 (meishi)", "じどうしゃ / 自動車 (jidousha)", "カメラ (kamera)"],
+    "answer": "めいし / 名刺 (meishi)"
+  },
+  {
+    "question": "card",
+    "options": ["カード (kaado)", "ほん / 本 (hon)", "あれ (are)"],
+    "answer": "カード (kaado)"
+  },
+  {
+    "question": "telephone card",
+    "options": ["テレホンカード (terehonkaado)", "コーヒー (kouhii)", "ざっし / 雑誌 (zasshi)"],
+    "answer": "テレホンカード (terehonkaado)"
+  },
+  {
+    "question": "pencil",
+    "options": ["えんぴつ / 鉛筆 (enpitsu)", "テレビ (terebi)", "ノート (notto)"],
+    "answer": "えんぴつ / 鉛筆 (enpitsu)"
+  },
+  {
+    "question": "ballpoint pen",
+    "options": ["ボールペン (bourupen)", "てちょう / 手帳 (techou)", "チョコレート (chokoreito)"],
+    "answer": "ボールペン (bourupen)"
+  },
+  {
+    "question": "mechanical pencil",
+    "options": ["シャープペンシル (shaapupenshiru)", "めいし / 名刺 (meishi)", "ほん / 本 (hon)"],
+    "answer": "シャープペンシル (shaapupenshiru)"
+  },
+  {
+    "question": "key",
+    "options": ["かぎ / 鍵 (kagi)", "いす / 椅子 (isu)", "ほんのきもち / ほんの気持ち (honnokimochi)"],
+    "answer": "かぎ / 鍵 (kagi)"
+  },
+  {
+    "question": "watch",
+    "options": ["とけい / 時計 (tokei)", "チョコレート (chokoreito)", "テープレコーダー (teepurekodaa)"],
+    "answer": "とけい / 時計 (tokei)"
+  },
+  {
+    "question": "umbrella",
+    "options": ["かさ / 傘 (kasa)", "カメラ (kamera)", "ノート (notto)"],
+    "answer": "かさ / 傘 (kasa)"
+  },
+  {
+    "question": "bag",
+    "options": ["かばん / 鞄 (kaban)", "くるま / 車 (kuruma)", "パソコン (konpyuutaa)"],
+    "answer": "かばん / 鞄 (kaban)"
+  },
+  {
+    "question": "[cassette] tape",
+    "options": ["「カセット」テープ ([kasetto] teepu)", "しんぶん / 新聞 (shinbun)", "ボールペン (bourupen)"],
+    "answer": "「カセット」テープ ([kasetto] teepu)"
+  },
+  {
+    "question": "tape recorder",
+    "options": ["テープレコーダー (teepurekodaa)", "ざっし / 雑誌 (zasshi)", "コーヒー (kouhii)"],
+    "answer": "テープレコーダー (teepurekodaa)"
+  },
+  {
+    "question": "television",
+    "options": ["テレビ (terebi)", "チョコレート (chokoreito)", "とけい / 時計 (tokei)"],
+    "answer": "テレビ (terebi)"
+  },
+  {
+    "question": "radio",
+    "options": ["ラジオ (rajio)", "ほん / 本 (hon)", "パソコン (konpyuutaa)"],
+    "answer": "ラジオ (rajio)"
+  },
+  {
+    "question": "camera",
+    "options": ["カメラ (kamera)", "いす / 椅子 (isu)", "テープレコーダー (teepurekodaa)"],
+    "answer": "カメラ (kamera)"
+  },
+  {
+    "question": "computer",
+    "options": ["コンピューター (konpyuutaa)", "ノート (notto)", "えんぴつ / 鉛筆 (enpitsu)"],
+    "answer": "コンピューター (konpyuutaa)"
+  },
+  {
+    "question": "car",
+    "options": ["くるま / 車 (kuruma)", "テレホンカード (terehonkaado)", "ほん / 本 (hon)"],
+    "answer": "くるま / 車 (kuruma)"
+  },
+  {
+    "question": "automobile",
+    "options": ["じどうしゃ / 自動車 (jidousha)", "ざっし / 雑誌 (zasshi)", "カメラ (kamera)"],
+    "answer": "じどうしゃ / 自動車 (jidousha)"
+  },
+  {
+    "question": "desk",
+    "options": ["つくえ / 机 (tsukue)", "にほんご / 日本語 (nihongo)", "ラジオ (rajio)"],
+    "answer": "つくえ / 机 (tsukue)"
+  },
+  {
+    "question": "chair",
+    "options": ["いす / 椅子 (isu)", "とけい / 時計 (tokei)", "チョコレート (chokoreito)"],
+    "answer": "いす / 椅子 (isu)"
+  },
+  {
+    "question": "chocolate",
+    "options": ["チョコレート (chokoreito)", "コーヒー (kouhii)", "かさ / 傘 (kasa)"],
+    "answer": "チョコレート (chokoreito)"
+  },
+  {
+    "question": "coffee",
+    "options": ["コーヒー (kouhii)", "かばん / 鞄 (kaban)", "ほん / 本 (hon)"],
+    "answer": "コーヒー (kouhii)"
+  },
+  {
+    "question": "present",
+    "options": ["「お」みやげ / 「お」土産 ([o] miyage)", "テレビ (terebi)", "ノート (notto)"],
+    "answer": "「お」みやげ / 「お」土産 ([o] miyage)"
+  },
+  {
+    "question": "the English language",
+    "options": ["えいご / 英語 (eigo)", "ちがいます / 違います (chigaimasu)", "カメラ (kamera)"],
+    "answer": "えいご / 英語 (eigo)"
+  },
+  {
+    "question": "the Japanese language",
+    "options": ["にほんご / 日本語 (nihongo)", "ほん / 本 (hon)", "テレビ (terebi)"],
+    "answer": "にほんご / 日本語 (nihongo)"
+  },
+  {
+    "question": "～language",
+    "options": ["～ご / ～語 (～go)", "かばん / 鞄 (kaban)", "コンピューター (konpyuutaa)"],
+    "answer": "～ご / ～語 (～go)"
+  },
+  {
+    "question": "what",
+    "options": ["なに / 何 (nani)", "なん / 何 (nan)", "これ (kore)"],
+    "answer": "なに / 何 (nani)"
+  },
+  {
+    "question": "so",
+    "options": ["そう (sou)", "ちがいます / 違います (chigaimasu)", "ほんのきもち / ほんの気持ち (honnokimochi)"],
+    "answer": "そう (sou)"
+  },
+  {
+    "question": "be different",
+    "options": ["ちがいます / 違います (chigaimasu)", "そうですか (soudesuka)", "コーヒー (kouhii)"],
+    "answer": "ちがいます / 違います (chigaimasu)"
+  },
+  {
+    "question": "Is that so?",
+    "options": ["そうですか (soudesuka)", "あのう (anou)", "えっ (e)"],
+    "answer": "そうですか (soudesuka)"
+  },
+  {
+    "question": "Well",
+    "options": ["あのう (anou)", "これ (kore)", "テレビ (terebi)"],
+    "answer": "あのう (anou)"
+  },
+  {
+    "question": "It's nothing",
+    "options": ["ほんのきもち / ほんの気持ち (honnokimochi)", "にほんご / 日本語 (nihongo)", "ボールペン (bourupen)"],
+    "answer": "ほんのきもち / ほんの気持ち (honnokimochi)"
+  },
+  {
+    "question": "Really?",
+    "options": ["えっ (e)", "そうですか (soudesuka)", "くるま / 車 (kuruma)"],
+    "answer": "えっ (e)"
+  },
+  {
+    "question": "Please",
+    "options": ["どうぞ (douzo)", "カメラ (kamera)", "ざっし / 雑誌 (zasshi)"],
+    "answer": "どうぞ (douzo)"
+  },
+  {
+    "question": "Well, thanks",
+    "options": ["どうも (doumo)", "えいご / 英語 (eigo)", "テレホンカード (terehonkaado)"],
+    "answer": "どうも (doumo)"
+  },
+  {
+    "question": "Thank you [very much]",
+    "options": ["「どうも」ありがとう　「ございます」 ([doumo] arigatou [gozaimasu])", "ほんのきもち / ほんの気持ち (honnokimochi)", "そうですか (soudesuka)"],
+    "answer": "「どうも」ありがとう　「ございます」 ([doumo] arigatou [gozaimasu])"
+  },
+  {
+    "question": "I hope for your kind assistance hereafter",
+    "options": ["これから　おせわに　なります。 / これから　お世話になります (korekara osewani narimasu)", "どうぞ (douzo)", "えっ (e)"],
+    "answer": "これから　おせわに　なります。 / これから　お世話になります (korekara osewani narimasu)"
+  },
+  {
+    "question": "I am pleased to meet you",
+    "options": ["こちらこそ　「どうぞ」　よろしく　「おねがいします」 / 宜しくお願いします (kochirakoso [douzo] yoroshiku [onegaishimasu])", "えっ (e)", "テレビ (terebi)"],
+    "answer": "こちらこそ　「どうぞ」　よろしく　「おねがいします」 / 宜しくお願いします (kochirakoso [douzo] yoroshiku [onegaishimasu])"
+  }
+]
