@@ -1,7 +1,8 @@
 {
   "test 0": {
     "name": "Alphabet",
-    "part 1": "Hiragana"
+    "part 1": "Hiragana",
+    "part 2": "Katakana"
   },
   "test 1": {
     "name": "Vocabulary",
