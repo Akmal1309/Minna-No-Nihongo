@@ -1,0 +1,214 @@
+{
+  "part 0": {
+    "side 1": "this",
+    "side 2": "これ (kore) - thing here"
+  },
+  "part 1": {
+    "side 1": "that",
+    "side 2": "それ (sore) - thing near you"
+  },
+  "part 2": {
+    "side 1": "that",
+    "side 2": "あれ (are) - thing over there"
+  },
+  "part 3": {
+    "side 1": "this～",
+    "side 2": "この～ (kono～) - this～here"
+  },
+  "part 4": {
+    "side 1": "that～",
+    "side 2": "その～ (sono～) - that～near you"
+  },
+  "part 5": {
+    "side 1": "that～",
+    "side 2": "あの～ (ano～) - that～over there"
+  },
+  "part 6": {
+    "side 1": "book",
+    "side 2": "ほん / 本 (hon)"
+  },
+  "part 7": {
+    "side 1": "dictionary",
+    "side 2": "じしょ / 辞書 (jisho)"
+  },
+  "part 8": {
+    "side 1": "magazine",
+    "side 2": "ざっし / 雑誌 (zasshi)"
+  },
+  "part 9": {
+    "side 1": "newspaper",
+    "side 2": "しんぶん / 新聞 (shinbun)"
+  },
+  "part 10": {
+    "side 1": "notebook",
+    "side 2": "ノート (notto)"
+  },
+  "part 11": {
+    "side 1": "pocket notebook",
+    "side 2": "てちょう / 手帳 (techou)"
+  },
+  "part 12": {
+    "side 1": "business card",
+    "side 2": "めいし / 名刺 (meishi)"
+  },
+  "part 13": {
+    "side 1": "card",
+    "side 2": "カード (kaado)"
+  },
+  "part 14": {
+    "side 1": "telephone card",
+    "side 2": "テレホンカード (terehonkaado)"
+  },
+  "part 15": {
+    "side 1": "pencil",
+    "side 2": "えんぴつ / 鉛筆 (enpitsu)"
+  },
+  "part 16": {
+    "side 1": "ballpoint pen",
+    "side 2": "ボールペン (bourupen)"
+  },
+  "part 17": {
+    "side 1": "mechanical pencil",
+    "side 2": "シャープペンシル (shaapupenshiru)"
+  },
+  "part 18": {
+    "side 1": "key",
+    "side 2": "かぎ / 鍵 (kagi)"
+  },
+  "part 19": {
+    "side 1": "watch",
+    "side 2": "とけい / 時計 (tokei)"
+  },
+  "part 20": {
+    "side 1": "umbrella",
+    "side 2": "かさ / 傘 (kasa)"
+  },
+  "part 21": {
+    "side 1": "bag",
+    "side 2": "かばん / 鞄 (kaban)"
+  },
+  "part 22": {
+    "side 1": "[cassette] tape",
+    "side 2": "「カセット」テープ (kasetto teepu)"
+  },
+  "part 23": {
+    "side 1": "tape recorder",
+    "side 2": "テープレコーダー (teepurekodaa)"
+  },
+  "part 24": {
+    "side 1": "television",
+    "side 2": "テレビ (terebi)"
+  },
+  "part 25": {
+    "side 1": "radio",
+    "side 2": "ラジオ (rajio)"
+  },
+  "part 26": {
+    "side 1": "camera",
+    "side 2": "カメラ (kamera)"
+  },
+  "part 27": {
+    "side 1": "computer",
+    "side 2": "コンピューター (konpyuutaa)"
+  },
+  "part 28": {
+    "side 1": "car",
+    "side 2": "くるま / 車 (kuruma)"
+  },
+  "part 29": {
+    "side 1": "car (alternative)",
+    "side 2": "じどうしゃ / 自動車 (jidousha)"
+  },
+  "part 30": {
+    "side 1": "desk",
+    "side 2": "つくえ / 机 (tsukue)"
+  },
+  "part 31": {
+    "side 1": "chair",
+    "side 2": "いす / 椅子 (isu)"
+  },
+  "part 32": {
+    "side 1": "chocolate",
+    "side 2": "チョコレート (chokoreito)"
+  },
+  "part 33": {
+    "side 1": "coffee",
+    "side 2": "コーヒー (kouhii)"
+  },
+  "part 34": {
+    "side 1": "present",
+    "side 2": "「お」みやげ / 「お」土産 ([o] miyage)"
+  },
+  "part 35": {
+    "side 1": "the English language",
+    "side 2": "えいご / 英語 (eigo)"
+  },
+  "part 36": {
+    "side 1": "the Japanese language",
+    "side 2": "にほんご / 日本語 (nihongo)"
+  },
+  "part 37": {
+    "side 1": "～language",
+    "side 2": "～ご / ～語 (～go)"
+  },
+  "part 38": {
+    "side 1": "what",
+    "side 2": "なに / 何 (nani)"
+  },
+  "part 39": {
+    "side 1": "what",
+    "side 2": "なん / 何 (nan)"
+  },
+  "part 40": {
+    "side 1": "so",
+    "side 2": "そう (sou)"
+  },
+  "part 41": {
+    "side 1": "be different",
+    "side 2": "ちがいます / 違います (chigaimasu)"
+  },
+  "part 42": {
+    "side 1": "Is that so?",
+    "side 2": "そうですか (soudesuka)"
+  },
+  "part 43": {
+    "side 1": "Well",
+    "side 2": "あのう (anou) - used to show hesitation"
+  },
+  "part 44": {
+    "side 1": "It's nothing",
+    "side 2": "ほんのきもち / ほんの気持ち (honnokimochi)"
+  },
+  "part 45": {
+    "side 1": "Really?",
+    "side 2": "えっ (e)"
+  },
+  "part 46": {
+    "side 1": "Please",
+    "side 2": "どうぞ (douzo) - used when offering someone something"
+  },
+  "part 47": {
+    "side 1": "Well, thanks",
+    "side 2": "どうも (doumo)"
+  },
+  "part 48": {
+    "side 1": "Thank you [very much]",
+    "side 2": "「どうも」ありがとう「ございます」 / [doumo] arigatou [gozaimasu]"
+  },
+  "part 49": {
+    "side 1": "Here's the thing",
+    "side 2": "そうですか (soudesuka)"
+  },
+  "part 50": {
+    "side 1": "No, it's not",
+    "side 2": "ちがいます / 違います (chigaimasu)"
+  },
+  "part 51": {
+    "side 1": "I hope for your kind assistance hereafter",
+    "side 2": "これから　おせわに　なります / これから　お世話になります (korekara osewani narimasu)"
+  },
+  "part 52": {
+    "side 1": "I am pleased to meet you",
+    "side 2": "こちらこそ　「どうぞ」　よろしく「おねがいします」 / 宜しくお願いします (kochirakoso [douzo] yoroshiku [onegaishimasu])"
+  }
+}
