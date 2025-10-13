@@ -1,0 +1,479 @@
+[
+  {
+    "question": "to eat",
+    "options": [
+      "たべます / 食べます (tabemasu)",
+      "のみます / 飲む (nomimasu)",
+      "かきます / 書きます (kakimasu)"
+    ],
+    "answer": "たべます / 食べます (tabemasu)"
+  },
+  {
+    "question": "to drink",
+    "options": [
+      "のみます / 飲む (nomimasu)",
+      "たべます / 食べます (tabemasu)",
+      "すいます / 吸います (suimasu)"
+    ],
+    "answer": "のみます / 飲む (nomimasu)"
+  },
+  {
+    "question": "to smoke [cigar]",
+    "options": [
+      "すいます「たばこを～」 / 吸います (suimasu [tabakoo~])",
+      "みます / 見ます (mimasu)",
+      "ききます / 聞きます (kikimasu)"
+    ],
+    "answer": "すいます「たばこを～」 / 吸います (suimasu [tabakoo~])"
+  },
+  {
+    "question": "to see/look/watch",
+    "options": [
+      "みます / 見ます (mimasu)",
+      "あいます / 会います (aimasu)",
+      "よみます / 読みます (yomimasu)"
+    ],
+    "answer": "みます / 見ます (mimasu)"
+  },
+  {
+    "question": "to hear/listen",
+    "options": [
+      "ききます / 聞きます (kikimasu)",
+      "とります / 撮ります (torimasu)",
+      "かきます / 書きます (kakimasu)"
+    ],
+    "answer": "ききます / 聞きます (kikimasu)"
+  },
+  {
+    "question": "to read",
+    "options": [
+      "よみます / 読みます (yomimasu)",
+      "いきます / 行きます (ikimasu)",
+      "あいます / 会います (aimasu)"
+    ],
+    "answer": "よみます / 読みます (yomimasu)"
+  },
+  {
+    "question": "to write/draw",
+    "options": [
+      "かきます / 書きます (kakimasu)",
+      "うります / 売ります (urimasu)",
+      "すいます / 吸います (suimasu)"
+    ],
+    "answer": "かきます / 書きます (kakimasu)"
+  },
+  {
+    "question": "to buy/purchase",
+    "options": [
+      "かいます / 買います (kaimasu)",
+      "いきます / 行きます (ikimasu)",
+      "たべます / 食べます (tabemasu)"
+    ],
+    "answer": "かいます / 買います (kaimasu)"
+  },
+  {
+    "question": "to take",
+    "options": [
+      "とります / 撮ります (torimasu)",
+      "みます / 見ます (mimasu)",
+      "よみます / 読みます (yomimasu)"
+    ],
+    "answer": "とります / 撮ります (torimasu)"
+  },
+  {
+    "question": "to do",
+    "options": [
+      "します (shimasu)",
+      "あいます / 会います (aimasu)",
+      "たべます / 食べます (tabemasu)"
+    ],
+    "answer": "します (shimasu)"
+  },
+  {
+    "question": "to meet [friend]",
+    "options": [
+      "あいます「ともだちに～」 / 会います「友達に～」 (aimasu [tomodachini])",
+      "かきます / 書きます (kakimasu)",
+      "みます / 見ます (mimasu)"
+    ],
+    "answer": "あいます「ともだちに～」 / 会います「友達に～」 (aimasu [tomodachini])"
+  },
+  {
+    "question": "a meal",
+    "options": [
+      "ごはん / ご飯 (gohan)",
+      "ジュース (juusu)",
+      "みず / 水 (mizu)"
+    ],
+    "answer": "ごはん / ご飯 (gohan)"
+  },
+  {
+    "question": "breakfast",
+    "options": [
+      "あさごはん / 朝ごはん (asagohan)",
+      "ひるごはん / 昼ごはん (hirugohan)",
+      "ばんごはん / 晩ごはん (bangohan)"
+    ],
+    "answer": "あさごはん / 朝ごはん (asagohan)"
+  },
+  {
+    "question": "lunch",
+    "options": [
+      "ひるごはん / 昼ごはん (hirugohan)",
+      "ばんごはん / 晩ごはん (bangohan)",
+      "ごはん / ご飯 (gohan)"
+    ],
+    "answer": "ひるごはん / 昼ごはん (hirugohan)"
+  },
+  {
+    "question": "dinner/supper",
+    "options": [
+      "ばんごはん / 晩ごはん (bangohan)",
+      "あさごはん / 朝ごはん (asagohan)",
+      "にく / 肉 (niku)"
+    ],
+    "answer": "ばんごはん / 晩ごはん (bangohan)"
+  },
+  {
+    "question": "bread",
+    "options": [
+      "パン (pan)",
+      "ごはん / ご飯 (gohan)",
+      "みず / 水 (mizu)"
+    ],
+    "answer": "パン (pan)"
+  },
+  {
+    "question": "egg",
+    "options": [
+      "たまご / 卵 (tamago)",
+      "さかな / 魚 (sakana)",
+      "にく / 肉 (niku)"
+    ],
+    "answer": "たまご / 卵 (tamago)"
+  },
+  {
+    "question": "meat",
+    "options": [
+      "にく / 肉 (niku)",
+      "さかな / 魚 (sakana)",
+      "みず / 水 (mizu)"
+    ],
+    "answer": "にく / 肉 (niku)"
+  },
+  {
+    "question": "fish",
+    "options": [
+      "さかな / 魚 (sakana)",
+      "にく / 肉 (niku)",
+      "たまご / 卵 (tamago)"
+    ],
+    "answer": "さかな / 魚 (sakana)"
+  },
+  {
+    "question": "vegetable",
+    "options": [
+      "やさい / 野菜 (yasai)",
+      "ごはん / ご飯 (gohan)",
+      "さかな / 魚 (sakana)"
+    ],
+    "answer": "やさい / 野菜 (yasai)"
+  },
+  {
+    "question": "fruit",
+    "options": [
+      "くだもの / 果物 (kudamono)",
+      "たまご / 卵 (tamago)",
+      "にく / 肉 (niku)"
+    ],
+    "answer": "くだもの / 果物 (kudamono)"
+  },
+  {
+    "question": "water",
+    "options": [
+      "みず / 水 (mizu)",
+      "ジュース (juusu)",
+      "さかな / 魚 (sakana)"
+    ],
+    "answer": "みず / 水 (mizu)"
+  },
+  {
+    "question": "tea",
+    "options": [
+      "おちゃ / お茶 (ocha)",
+      "ジュース (juusu)",
+      "ビール (biiru)"
+    ],
+    "answer": "おちゃ / お茶 (ocha)"
+  },
+  {
+    "question": "black tea",
+    "options": [
+      "こうちゃ / 紅茶 (koucha)",
+      "さけ / 酒 (sake)",
+      "おちゃ / お茶 (ocha)"
+    ],
+    "answer": "こうちゃ / 紅茶 (koucha)"
+  },
+  {
+    "question": "cow’s milk",
+    "options": [
+      "ぎゅうにゅう / 牛乳 (gyuunyuu)",
+      "ミルク (miruku)",
+      "ジュース (juusu)"
+    ],
+    "answer": "ぎゅうにゅう / 牛乳 (gyuunyuu)"
+  },
+  {
+    "question": "milk",
+    "options": [
+      "ミルク (miruku)",
+      "ジュース (juusu)",
+      "ぎゅうにゅう / 牛乳 (gyuunyuu)"
+    ],
+    "answer": "ミルク (miruku)"
+  },
+  {
+    "question": "juice",
+    "options": [
+      "ジュース (juusu)",
+      "みず / 水 (mizu)",
+      "ビール (biiru)"
+    ],
+    "answer": "ジュース (juusu)"
+  },
+  {
+    "question": "beer",
+    "options": [
+      "ビール (biiru)",
+      "さけ / 酒 (sake)",
+      "ジュース (juusu)"
+    ],
+    "answer": "ビール (biiru)"
+  },
+  {
+    "question": "sake",
+    "options": [
+      "おさけ / お酒 (osake)",
+      "みず / 水 (mizu)",
+      "ビール (biiru)"
+    ],
+    "answer": "おさけ / お酒 (osake)"
+  },
+  {
+    "question": "football",
+    "options": [
+      "サッカー (sakka)",
+      "テニス (tenisu)",
+      "しゅくだい / 宿題 (shukudai)"
+    ],
+    "answer": "サッカー (sakka)"
+  },
+  {
+    "question": "video",
+    "options": [
+      "ビデオ (bideo)",
+      "えいが / 映画 (eiga)",
+      "レポート (repooto)"
+    ],
+    "answer": "ビデオ (bideo)"
+  },
+  {
+    "question": "movie",
+    "options": [
+      "えいが / 映画 (eiga)",
+      "てがみ / 手紙 (tegami)",
+      "しゃしん / 写真 (shashin)"
+    ],
+    "answer": "えいが / 映画 (eiga)"
+  },
+  {
+    "question": "CD",
+    "options": [
+      "CD (CD)",
+      "レポート (repooto)",
+      "ビデオ (bideo)"
+    ],
+    "answer": "CD (CD)"
+  },
+  {
+    "question": "letter/mail",
+    "options": [
+      "てがみ / 手紙 (tegami)",
+      "レポート (repooto)",
+      "ビデオ (bideo)"
+    ],
+    "answer": "てがみ / 手紙 (tegami)"
+  },
+  {
+    "question": "report",
+    "options": [
+      "レポート (repooto)",
+      "ビデオ (bideo)",
+      "さけ / 酒 (osake)"
+    ],
+    "answer": "レポート (repooto)"
+  },
+  {
+    "question": "photo/picture",
+    "options": [
+      "しゃしん / 写真 (shashin)",
+      "えいが / 映画 (eiga)",
+      "みせ / 店 (mise)"
+    ],
+    "answer": "しゃしん / 写真 (shashin)"
+  },
+  {
+    "question": "store/shop",
+    "options": [
+      "みせ / 店 (mise)",
+      "レストラン (resutoran)",
+      "おさけ / お酒 (osake)"
+    ],
+    "answer": "みせ / 店 (mise)"
+  },
+  {
+    "question": "restaurant",
+    "options": [
+      "レストラン (resutoran)",
+      "しゅくだい / 宿題 (shukudai)",
+      "みせ / 店 (mise)"
+    ],
+    "answer": "レストラン (resutoran)"
+  },
+  {
+    "question": "garden",
+    "options": [
+      "にわ / 庭 (niwa)",
+      "レポート (repooto)",
+      "ごはん / ご飯 (gohan)"
+    ],
+    "answer": "にわ / 庭 (niwa)"
+  },
+  {
+    "question": "homework",
+    "options": [
+      "しゅくだい / 宿題 (shukudai)",
+      "さかな / 魚 (sakana)",
+      "みず / 水 (mizu)"
+    ],
+    "answer": "しゅくだい / 宿題 (shukudai)"
+  },
+  {
+    "question": "tennis",
+    "options": [
+      "テニス (tenisu)",
+      "サッカー (sakka)",
+      "しゅくだい / 宿題 (shukudai)"
+    ],
+    "answer": "テニス (tenisu)"
+  },
+  {
+    "question": "cherry blossom viewing",
+    "options": [
+      "「お」はなみ / 「お」花見 ([o] hanami)",
+      "テニス (tenisu)",
+      "みせ / 店 (mise)"
+    ],
+    "answer": "「お」はなみ / 「お」花見 ([o] hanami)"
+  },
+  {
+    "question": "What?",
+    "options": [
+      "なに。 / 何。 (nani)",
+      "さけ / 酒 (sake)",
+      "ばんごはん / 晩ごはん (bangohan)"
+    ],
+    "answer": "なに。 / 何。 (nani)"
+  },
+  {
+    "question": "together",
+    "options": [
+      "うっしょに / 一緒に (isshoni)",
+      "たべます / 食べます (tabemasu)",
+      "あいます / 会います (aimasu)"
+    ],
+    "answer": "うっしょに / 一緒に (isshoni)"
+  },
+  {
+    "question": "a little while",
+    "options": [
+      "ちょっと (chyotto)",
+      "さかな / 魚 (sakana)",
+      "みず / 水 (mizu)"
+    ],
+    "answer": "ちょっと (chyotto)"
+  },
+  {
+    "question": "always/usually",
+    "options": [
+      "いつも / 何時も (itsumo)",
+      "みず / 水 (mizu)",
+      "さけ / 酒 (sake)"
+    ],
+    "answer": "いつも / 何時も (itsumo)"
+  },
+  {
+    "question": "sometimes",
+    "options": [
+      "ときどき (tokidoki)",
+      "みず / 水 (mizu)",
+      "レポート (repooto)"
+    ],
+    "answer": "ときどき (tokidoki)"
+  },
+  {
+    "question": "after that",
+    "options": [
+      "それから (sorekara)",
+      "おちゃ / お茶 (ocha)",
+      "さかな / 魚 (sakana)"
+    ],
+    "answer": "それから (sorekara)"
+  },
+  {
+    "question": "yes",
+    "options": [
+      "ええ (ei)",
+      "なに。 / 何。 (nani)",
+      "ビール (biiru)"
+    ],
+    "answer": "ええ (ei)"
+  },
+  {
+    "question": "That's good",
+    "options": [
+      "いいですね (iidesune)",
+      "さけ / 酒 (osake)",
+      "みせ / 店 (mise)"
+    ],
+    "answer": "いいですね (iidesune)"
+  },
+  {
+    "question": "I see",
+    "options": [
+      "わかりました。 (wakarimashita)",
+      "あさごはん / 朝ごはん (asagohan)",
+      "みず / 水 (mizu)"
+    ],
+    "answer": "わかりました。 (wakarimashita)"
+  },
+  {
+    "question": "Yes?",
+    "options": [
+      "なんですか。 / 何ですか。 (nandesuka)",
+      "みせ / 店 (mise)",
+      "さけ / 酒 (osake)"
+    ],
+    "answer": "なんですか。 / 何ですか。 (nandesuka)"
+  },
+  {
+    "question": "See you [tomorrow]",
+    "options": [
+      "じゃ、また「あした」。 / jamata [ashita]",
+      "しゅくだい / 宿題 (shukudai)",
+      "たべます / 食べます (tabemasu)"
+    ],
+    "answer": "じゃ、また「あした」。 / jamata [ashita]"
+  }
+]
