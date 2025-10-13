@@ -1,0 +1,194 @@
+{
+  "part 0": {
+    "side 1": "get up",
+    "side 2": "おきます / 起きます (okimasu)"
+  },
+  "part 1": {
+    "side 1": "sleep",
+    "side 2": "ねます / 寝ます (nemasu)"
+  },
+  "part 2": {
+    "side 1": "work",
+    "side 2": "はたらきます / 働きます (hatarakimasu)"
+  },
+  "part 3": {
+    "side 1": "take a rest",
+    "side 2": "やすみます / 休みます (yasumimasu)"
+  },
+  "part 4": {
+    "side 1": "study",
+    "side 2": "べんきょうします / 勉強します (benkyoushimasu)"
+  },
+  "part 5": {
+    "side 1": "finish",
+    "side 2": "おわります / 終わります (owarimasu)"
+  },
+  "part 6": {
+    "side 1": "department store",
+    "side 2": "デパート (depaato)"
+  },
+  "part 7": {
+    "side 1": "bank",
+    "side 2": "ぎんこう / 銀行 (ginkou)"
+  },
+  "part 8": {
+    "side 1": "post office",
+    "side 2": "ゆうびんきょく / 郵便局 (yuubinkyoku)"
+  },
+  "part 9": {
+    "side 1": "library",
+    "side 2": "としょかん / 図書館 (toshokan)"
+  },
+  "part 10": {
+    "side 1": "art museum",
+    "side 2": "びじゅつかん / 美術館 (bijutsukan)"
+  },
+  "part 11": {
+    "side 1": "now",
+    "side 2": "いま / 今 (ima)"
+  },
+  "part 12": {
+    "side 1": "～o'clock",
+    "side 2": "～じ / ～時 (~ji)"
+  },
+  "part 13": {
+    "side 1": "～minute",
+    "side 2": "～ふん / ～ぷん / ～分 (~fun / ~pun)"
+  },
+  "part 14": {
+    "side 1": "half",
+    "side 2": "はん / 半 (han)"
+  },
+  "part 15": {
+    "side 1": "what time",
+    "side 2": "なんじ / 何時 (nanji)"
+  },
+  "part 16": {
+    "side 1": "what minute",
+    "side 2": "なんふん / 何分 (nanfun)"
+  },
+  "part 17": {
+    "side 1": "a.m.",
+    "side 2": "ごぜん / 午前 (gozen)"
+  },
+  "part 18": {
+    "side 1": "p.m.",
+    "side 2": "ごご / 午後 (gogo)"
+  },
+  "part 19": {
+    "side 1": "morning",
+    "side 2": "あさ / 朝 (asa)"
+  },
+  "part 20": {
+    "side 1": "noon",
+    "side 2": "ひる / 昼 (hiru)"
+  },
+  "part 21": {
+    "side 1": "evening/night",
+    "side 2": "よる / 夜 (yoru)"
+  },
+  "part 22": {
+    "side 1": "the day before yesterday",
+    "side 2": "おととい / 一昨日 (ototoi)"
+  },
+  "part 23": {
+    "side 1": "yesterday",
+    "side 2": "きのう / 昨日 (kinou)"
+  },
+  "part 24": {
+    "side 1": "today",
+    "side 2": "きょう / 今日 (kyou)"
+  },
+  "part 25": {
+    "side 1": "tomorrow",
+    "side 2": "あした / 明日 (ashita)"
+  },
+  "part 26": {
+    "side 1": "the day after tomorrow",
+    "side 2": "あさって / 明後日 (asatte)"
+  },
+  "part 27": {
+    "side 1": "this morning",
+    "side 2": "けさ / 今朝 (kesa)"
+  },
+  "part 28": {
+    "side 1": "this evening",
+    "side 2": "こんばん / 今晩 (konban)"
+  },
+  "part 29": {
+    "side 1": "rest",
+    "side 2": "やすみ / 休み (yasumi)"
+  },
+  "part 30": {
+    "side 1": "lunchtime",
+    "side 2": "ひるやすみ / 昼休み (hiruyasumi)"
+  },
+  "part 31": {
+    "side 1": "every morning",
+    "side 2": "まいあさ / 毎朝 (maiasa)"
+  },
+  "part 32": {
+    "side 1": "every night",
+    "side 2": "まいばん / 毎晩 (maiban)"
+  },
+  "part 33": {
+    "side 1": "everyday",
+    "side 2": "まいにち / 毎日 (mainichi)"
+  },
+  "part 34": {
+    "side 1": "Monday",
+    "side 2": "げつようび / 月曜日 (getsuyoubi)"
+  },
+  "part 35": {
+    "side 1": "Tuesday",
+    "side 2": "かようび / 火曜日 (kayoubi)"
+  },
+  "part 36": {
+    "side 1": "Wednesday",
+    "side 2": "すいようび / 水曜日 (suiyoubi)"
+  },
+  "part 37": {
+    "side 1": "Thursday",
+    "side 2": "もくようび / 木曜日 (mokuyoubi)"
+  },
+  "part 38": {
+    "side 1": "Friday",
+    "side 2": "きんようび / 金曜日 (kinyoubi)"
+  },
+  "part 39": {
+    "side 1": "Saturday",
+    "side 2": "どようび / 土曜日 (doyoubi)"
+  },
+  "part 40": {
+    "side 1": "Sunday",
+    "side 2": "にちようび / 日曜日 (nichiyoubi)"
+  },
+  "part 41": {
+    "side 1": "What day of the week",
+    "side 2": "なんようび / 何曜日 (nanyoubi)"
+  },
+  "part 42": {
+    "side 1": "number",
+    "side 2": "ばんごう / 番号 (bangou)"
+  },
+  "part 43": {
+    "side 1": "What number",
+    "side 2": "なんばん / 何番 (nanban)"
+  },
+  "part 44": {
+    "side 1": "from～",
+    "side 2": "から～ / から～ (kara～)"
+  },
+  "part 45": {
+    "side 1": "to～",
+    "side 2": "まで～ / まで～ (made～)"
+  },
+  "part 46": {
+    "side 1": "～and～",
+    "side 2": "～と～ / ～と～ (~to～)"
+  },
+  "part 47": {
+    "side 1": "your place",
+    "side 2": "そちら / そちら (sochira)"
+  }
+}
