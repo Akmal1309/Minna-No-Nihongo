@@ -1,0 +1,238 @@
+{
+  "part 0": {
+    "side 1": "handsome",
+    "side 2": "ハンサム (hansamu)"
+  },
+  "part 1": {
+    "side 1": "beautiful, clean",
+    "side 2": "きれい / 綺麗 (kirei)"
+  },
+  "part 2": {
+    "side 1": "quiet",
+    "side 2": "しずか / 静か (shizuka)"
+  },
+  "part 3": {
+    "side 1": "lively, crowded",
+    "side 2": "にぎやか / 賑やか (nigiyaka)"
+  },
+  "part 4": {
+    "side 1": "famous",
+    "side 2": "ゆうめい / 有名 (yuumei)"
+  },
+  "part 5": {
+    "side 1": "kind",
+    "side 2": "しんせつ / 親切 (shinsetsu)"
+  },
+  "part 6": {
+    "side 1": "healthy, sound, cheerful",
+    "side 2": "げんき / 元気 (genki)"
+  },
+  "part 7": {
+    "side 1": "free",
+    "side 2": "ひま / 暇 (hima)"
+  },
+  "part 8": {
+    "side 1": "convenient",
+    "side 2": "べんり / 便利 (benri)"
+  },
+  "part 9": {
+    "side 1": "fine, nice, wonderful",
+    "side 2": "すてき / 素敵 (suteki)"
+  },
+  "part 10": {
+    "side 1": "Big, large",
+    "side 2": "おおきい / 大きい (ookii)"
+  },
+  "part 11": {
+    "side 1": "small",
+    "side 2": "ちいさい / 小さい (chiisai)"
+  },
+  "part 12": {
+    "side 1": "new",
+    "side 2": "あたらしい / 新しい (atarashii)"
+  },
+  "part 13": {
+    "side 1": "old (not of age)",
+    "side 2": "ふるい / 古い (furui)"
+  },
+  "part 14": {
+    "side 1": "good",
+    "side 2": "いい / 良い (ii)"
+  },
+  "part 15": {
+    "side 1": "bad",
+    "side 2": "わるい / 悪い (warui)"
+  },
+  "part 16": {
+    "side 1": "hot (temperature)",
+    "side 2": "あつい / 暑い (atsui)"
+  },
+  "part 17": {
+    "side 1": "hot (touch, drink)",
+    "side 2": "あつい / 熱い (atsui)"
+  },
+  "part 18": {
+    "side 1": "cold (temperature)",
+    "side 2": "さむい / 寒い (samui)"
+  },
+  "part 19": {
+    "side 1": "cold (touch, drink)",
+    "side 2": "つめたい / 冷たい (tsumetai)"
+  },
+  "part 20": {
+    "side 1": "difficult",
+    "side 2": "むずかしい / 難しい (muzukashii)"
+  },
+  "part 21": {
+    "side 1": "easy",
+    "side 2": "やさしい / 易しい/優しい (yasashii)"
+  },
+  "part 22": {
+    "side 1": "expensive, tall, high",
+    "side 2": "たかい / 高い (takai)"
+  },
+  "part 23": {
+    "side 1": "inexpensive",
+    "side 2": "やすい / 安い (yasui)"
+  },
+  "part 24": {
+    "side 1": "short, low",
+    "side 2": "ひくい / 低い (hikui)"
+  },
+  "part 25": {
+    "side 1": "interesting",
+    "side 2": "おもしろい / 面白い (omoshiroi)"
+  },
+  "part 26": {
+    "side 1": "delicious, tasty",
+    "side 2": "おいしい / 美味しい (oishii)"
+  },
+  "part 27": {
+    "side 1": "busy",
+    "side 2": "いそがしい / 忙しい (isogashii)"
+  },
+  "part 28": {
+    "side 1": "enjoyable",
+    "side 2": "たのしい / 楽しい (tanoshii)"
+  },
+  "part 29": {
+    "side 1": "white",
+    "side 2": "しろい / 白い (shiroi)"
+  },
+  "part 30": {
+    "side 1": "black",
+    "side 2": "くろい / 黒い (kuroi)"
+  },
+  "part 31": {
+    "side 1": "red",
+    "side 2": "あかい / 赤い (akai)"
+  },
+  "part 32": {
+    "side 1": "blue",
+    "side 2": "あおい / 青い (aoi)"
+  },
+  "part 33": {
+    "side 1": "cherry (blossom)",
+    "side 2": "さくら / 桜 (sakura)"
+  },
+  "part 34": {
+    "side 1": "mountain",
+    "side 2": "やま / 山 (yama)"
+  },
+  "part 35": {
+    "side 1": "town, city",
+    "side 2": "まち / 町/街 (machi)"
+  },
+  "part 36": {
+    "side 1": "food",
+    "side 2": "たべもの / 食べ物 (tabemono)"
+  },
+  "part 37": {
+    "side 1": "car, vehicle",
+    "side 2": "くるま / 車 (kuruma)"
+  },
+  "part 38": {
+    "side 1": "place",
+    "side 2": "ところ / 所 (tokoro)"
+  },
+  "part 39": {
+    "side 1": "dormitory, hostel",
+    "side 2": "りょう / 寮 (ryou)"
+  },
+  "part 40": {
+    "side 1": "study",
+    "side 2": "べんきょう / 勉強 (benkyou)"
+  },
+  "part 41": {
+    "side 1": "life",
+    "side 2": "せいかつ / 生活 (seikatsu)"
+  },
+  "part 42": {
+    "side 1": "work, business",
+    "side 2": "しごと / 仕事 (shigoto)"
+  },
+  "part 43": {
+    "side 1": "do one’s job or work",
+    "side 2": "しごとをします / 仕事をします (shigoto o shimasu)"
+  },
+  "part 44": {
+    "side 1": "how",
+    "side 2": "どう (dou)"
+  },
+  "part 45": {
+    "side 1": "what kind of ~",
+    "side 2": "どんな~ (donna~)"
+  },
+  "part 46": {
+    "side 1": "which one (of three or more)",
+    "side 2": "どれ (dore)"
+  },
+  "part 47": {
+    "side 1": "very",
+    "side 2": "とても (totemo)"
+  },
+  "part 48": {
+    "side 1": "not so (used with negatives)",
+    "side 2": "あまり (amari)"
+  },
+  "part 49": {
+    "side 1": "and (used to connect sentences)",
+    "side 2": "そして (soshite)"
+  },
+  "part 50": {
+    "side 1": "~, but ~",
+    "side 2": "~~、が~~ (~, ga~~)"
+  },
+  "part 51": {
+    "side 1": "How are you?",
+    "side 2": "おげんきですか / お元気ですか (ogenki desu ka)"
+  },
+  "part 52": {
+    "side 1": "Well, let me see (pausing)",
+    "side 2": "そうですね (sou desu ne)"
+  },
+  "part 53": {
+    "side 1": "Have you got used to the life in Japan?",
+    "side 2": "にほんのせいかつになれましたか / 日本の生活になれましたか (nihon no seikatsu ni naremashita ka)"
+  },
+  "part 54": {
+    "side 1": "Won’t you have another cup of ~?",
+    "side 2": "~もいっぱいいかがですか / ~も一杯いかがですか (~mo ippai ikaga desu ka)"
+  },
+  "part 55": {
+    "side 1": "No, thank you",
+    "side 2": "いいえ、けっこうです / いいえ、結構です (iie, kekkou desu)"
+  },
+  "part 56": {
+    "side 1": "It’s already ~(isn’t it?)",
+    "side 2": "もう~ですね (mou ~ desu ne)"
+  },
+  "part 57": {
+    "side 1": "It’s almost time to leave now",
+    "side 2": "そろそろしつれいします / そろそろ失礼します (sorosoro shitsurei shimasu)"
+  },
+  "part 58": {
+    "side 1": "Please come again",
+    "side 2": "またいらっしゃってください / またいらっしゃって下さい (mata irasshatte kudasai)"
+  }
+}
