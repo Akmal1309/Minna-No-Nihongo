@@ -1,0 +1,146 @@
+{
+  "card 0": {
+    "name": "I",
+    "part 1": "わたし / 私 (watashi)"
+  },
+  "card 1": {
+    "name": "we",
+    "part 1": "わたしたち / 私たち (watashitachi)"
+  },
+  "card 2": {
+    "name": "you",
+    "part 1": "あなた (anata)"
+  },
+  "card 3": {
+    "name": "that person",
+    "part 1": "あのひと / あの人 (anohito)"
+  },
+  "card 4": {
+    "name": "that person (polite)",
+    "part 1": "あのかた / あの　方 (anokata)"
+  },
+  "card 5": {
+    "name": "we (everyone)",
+    "part 1": "みなさん / 皆さん (minasan)"
+  },
+  "card 6": {
+    "name": "Mr./Mrs.",
+    "part 1": "～さん (～san)"
+  },
+  "card 7": {
+    "name": "child's name suffix",
+    "part 1": "～ちゃん (～chyan)"
+  },
+  "card 8": {
+    "name": "boy's name suffix",
+    "part 1": "～くん / ～君 (～kun)"
+  },
+  "card 9": {
+    "name": "nationality suffix",
+    "part 1": "～じん / ～人 (～jin)"
+  },
+  "card 10": {
+    "name": "teacher",
+    "part 1": "せんせい / 先生 (sensei)"
+  },
+  "card 11": {
+    "name": "instructor",
+    "part 1": "きょうし / 教室 (kyoushi)"
+  },
+  "card 12": {
+    "name": "student",
+    "part 1": "がくせい / 学生 (gakusei)"
+  },
+  "card 13": {
+    "name": "company employee",
+    "part 1": "かいしゃいん / 会社員 (kaishyain)"
+  },
+  "card 14": {
+    "name": "employee",
+    "part 1": "しゃいん / 社員 (shain)"
+  },
+  "card 15": {
+    "name": "bank employee",
+    "part 1": "ぎんこういん / 銀行員 (ginkouin)"
+  },
+  "card 16": {
+    "name": "medical doctor",
+    "part 1": "いしゃ / 医者 (isha)"
+  },
+  "card 17": {
+    "name": "researcher",
+    "part 1": "けんきゅうしゃ / 研究者 (kenkyuusha)"
+  },
+  "card 18": {
+    "name": "engineer",
+    "part 1": "エンジニア (enjinia)"
+  },
+  "card 19": {
+    "name": "university",
+    "part 1": "だいがく / 大学 (daigaku)"
+  },
+  "card 20": {
+    "name": "hospital",
+    "part 1": "びょういん / 病院 (byouin)"
+  },
+  "card 21": {
+    "name": "electricity/light",
+    "part 1": "でんき / 電気 (denki)"
+  },
+  "card 22": {
+    "name": "who",
+    "part 1": "だれ / 誰 (dare)"
+  },
+  "card 23": {
+    "name": "who (polite)",
+    "part 1": "どなた / 何方 (donata)"
+  },
+  "card 24": {
+    "name": "years old",
+    "part 1": "～さい / ～歳 (～sai)"
+  },
+  "card 25": {
+    "name": "how old",
+    "part 1": "なんさい / 何歳 (nansai)"
+  },
+  "card 26": {
+    "name": "how old (polite)",
+    "part 1": "あいくつ (aikutsu)"
+  },
+  "card 27": {
+    "name": "yes",
+    "part 1": "はい (hai)"
+  },
+  "card 28": {
+    "name": "no",
+    "part 1": "いいえ (iie)"
+  },
+  "card 29": {
+    "name": "how old (polite)",
+    "part 1": "おいくつ (oikutsu)"
+  },
+  "card 30": {
+    "name": "Excuse me, but",
+    "part 1": "しつれいですが / 失礼ですが (shitsureidesuga)"
+  },
+  "card 31": {
+    "name": "May I have your name?",
+    "part 1": "おなまえは？ / お名前は？ (onamaewa?)"
+  },
+  "card 32": {
+    "name": "How do you do?",
+    "part 1": "はじめまして / 初めまして (hajimemashite)"
+  },
+  "card 33": {
+    "name": "Please be nice to me",
+    "part 1": "どぞよろしくおねがいします / どうぞよろしくお願いします (dozoyoroshiku onegaishimasu)"
+  },
+  "card 34": {
+    "name": "This is Mr./Ms.",
+    "part 1": "こちらわ～さんです (kochirawa ～sandes)"
+  },
+  "card 35": {
+    "name": "I came from",
+    "part 1": "～からきました / ～から来ました (～karakimashita)"
+  }
+}
