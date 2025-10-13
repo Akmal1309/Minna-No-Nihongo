@@ -1,0 +1,170 @@
+{
+  "part 0": {
+    "side 1": "here, this place",
+    "side 2": "ここ / 此処 (koko)"
+  },
+  "part 1": {
+    "side 1": "there, that place near you",
+    "side 2": "そこ / 其処 (soko)"
+  },
+  "part 2": {
+    "side 1": "that place over there",
+    "side 2": "あそこ / 彼処 (asoko)"
+  },
+  "part 3": {
+    "side 1": "where, what place?",
+    "side 2": "どこ / 何処 (doko)"
+  },
+  "part 4": {
+    "side 1": "this way, this place (polite)",
+    "side 2": "こちら / 此方 (kochira)"
+  },
+  "part 5": {
+    "side 1": "that place near you (polite)",
+    "side 2": "そちら / 其方 (sochira)"
+  },
+  "part 6": {
+    "side 1": "that way, over there (polite)",
+    "side 2": "あちら / 彼方 (achira)"
+  },
+  "part 7": {
+    "side 1": "which way, where (polite)",
+    "side 2": "どちら / 何方 (dochira)"
+  },
+  "part 8": {
+    "side 1": "classroom",
+    "side 2": "きょうしつ / 教室 (kyoushitsu)"
+  },
+  "part 9": {
+    "side 1": "dining hall, canteen",
+    "side 2": "しょくどう / 食堂 (shokudou)"
+  },
+  "part 10": {
+    "side 1": "office",
+    "side 2": "じむしょ / 事務所 (jimusho)"
+  },
+  "part 11": {
+    "side 1": "meeting/conference room",
+    "side 2": "かいぎしつ / 会議室 (kaigishitsu)"
+  },
+  "part 12": {
+    "side 1": "reception desk",
+    "side 2": "うけつけ / 受付 (uketsuke)"
+  },
+  "part 13": {
+    "side 1": "lobby",
+    "side 2": "ロビー (robii)"
+  },
+  "part 14": {
+    "side 1": "room",
+    "side 2": "へや / 部屋 (heya)"
+  },
+  "part 15": {
+    "side 1": "toilet, restroom",
+    "side 2": "トイレ (toire)"
+  },
+  "part 16": {
+    "side 1": "toilet, restroom (polite)",
+    "side 2": "おてあらい / お手洗い (otearai)"
+  },
+  "part 17": {
+    "side 1": "staircase",
+    "side 2": "かいだん / 階段 (kaidan)"
+  },
+  "part 18": {
+    "side 1": "elevator, lift",
+    "side 2": "エレベーター (erebeetaa)"
+  },
+  "part 19": {
+    "side 1": "escalator",
+    "side 2": "エスカレーター (esukareetaa)"
+  },
+  "part 20": {
+    "side 1": "company",
+    "side 2": "かいしゃ / 会社 (kaisha)"
+  },
+  "part 21": {
+    "side 1": "house, home",
+    "side 2": "うち / いえ / 家 (uchi / ie)"
+  },
+  "part 22": {
+    "side 1": "telephone",
+    "side 2": "でんわ / 電話 (denwa)"
+  },
+  "part 23": {
+    "side 1": "shoes",
+    "side 2": "くつ / 靴 (kutsu)"
+  },
+  "part 24": {
+    "side 1": "wine",
+    "side 2": "ワイン (wain)"
+  },
+  "part 25": {
+    "side 1": "tobacco, cigarette",
+    "side 2": "たばこ / 煙草 (tabako)"
+  },
+  "part 26": {
+    "side 1": "department, counter (store)",
+    "side 2": "うりば / 売り場 (uriba)"
+  },
+  "part 27": {
+    "side 1": "basement",
+    "side 2": "ちか / 地下 (chika)"
+  },
+  "part 28": {
+    "side 1": "floor",
+    "side 2": "～かい / ～階 (~kai)"
+  },
+  "part 29": {
+    "side 1": "which floor",
+    "side 2": "なんがい / 何階 (nangai)"
+  },
+  "part 30": {
+    "side 1": "yen (Japanese money)",
+    "side 2": "～えん / ～円 (~en)"
+  },
+  "part 31": {
+    "side 1": "how much",
+    "side 2": "いくら / 幾ら (ikura)"
+  },
+  "part 32": {
+    "side 1": "hundred",
+    "side 2": "ひゃく / 百 (hyaku)"
+  },
+  "part 33": {
+    "side 1": "thousand",
+    "side 2": "せん / 千 (sen)"
+  },
+  "part 34": {
+    "side 1": "ten thousand",
+    "side 2": "まん / 万 (man)"
+  },
+  "part 35": {
+    "side 1": "Excuse me",
+    "side 2": "すみません / 済みません (sumimasen)"
+  },
+  "part 36": {
+    "side 1": "polite form of です",
+    "side 2": "～でございます (~degozaimasu)"
+  },
+  "part 37": {
+    "side 1": "please show me",
+    "side 2": "～をみせてください / 見せてください (~o misete kudasai)"
+  },
+  "part 38": {
+    "side 1": "well, then, in that case",
+    "side 2": "じゃ (ja)"
+  },
+  "part 39": {
+    "side 1": "Give me~, please",
+    "side 2": "～をください / 下さい (~o kudasai)"
+  },
+  "part 40": {
+    "side 1": "country",
+    "side 2": "くに / おくに / 国 / お国 (kuni / okuni)"
+  },
+  "part 41": {
+    "side 1": "necktie",
+    "side 2": "ネクタイ (nekutai)"
+  }
+}
