@@ -58,15 +58,15 @@
     "options": [
       "ぎんこう / 銀行 (ginkou)",
       "ゆうびんきょく / 郵便局 (yuubinkyoku)",
-      "デパート / - (depaato)"
+      "デパート"
     ],
-    "answer": "デパート / - (depaato)"
+    "answer": "デパート"
   },
   {
     "question": "bank",
     "options": [
       "ぎんこう / 銀行 (ginkou)",
-      "デパート / - (depaato)",
+      "デパート",
       "びじゅつかん / 美術館 (bijutsukan)"
     ],
     "answer": "ぎんこう / 銀行 (ginkou)"
@@ -75,7 +75,7 @@
     "question": "post office",
     "options": [
       "としょかん / 図書館 (toshokan)",
-      "デパート / - (depaato)",
+      "デパート)",
       "ゆうびんきょく / 郵便局 (yuubinkyoku)"
     ],
     "answer": "ゆうびんきょく / 郵便局 (yuubinkyoku)"
@@ -83,7 +83,7 @@
   {
     "question": "library",
     "options": [
-      "デパート / - (depaato)",
+      "デパート",
       "ぎんこう / 銀行 (ginkou)",
       "としょかん / 図書館 (toshokan)"
     ],
