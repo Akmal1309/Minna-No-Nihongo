@@ -1,0 +1,222 @@
+{
+  "part 0": {
+    "side 1": "understand",
+    "side 2": "わかります / 分かります (wakarimasu)"
+  },
+  "part 1": {
+    "side 1": "have",
+    "side 2": "あります / 有ります (arimasu)"
+  },
+  "part 2": {
+    "side 1": "like",
+    "side 2": "すき / 好き (suki)"
+  },
+  "part 3": {
+    "side 1": "dislike",
+    "side 2": "きらい / 嫌い (kirai)"
+  },
+  "part 4": {
+    "side 1": "good at",
+    "side 2": "じょうず / 上手 (jouzu)"
+  },
+  "part 5": {
+    "side 1": "poor at",
+    "side 2": "へた / 下手 (heta)"
+  },
+  "part 6": {
+    "side 1": "dish (cooked food), cooking",
+    "side 2": "りょうり / 料理 (ryouri)"
+  },
+  "part 7": {
+    "side 1": "drinks",
+    "side 2": "のみもの / 飲み物 (nomimono)"
+  },
+  "part 8": {
+    "side 1": "sports",
+    "side 2": "スポーツ (supootsu)"
+  },
+  "part 9": {
+    "side 1": "play sports",
+    "side 2": "スポーツをします / supootsu o shimasu"
+  },
+  "part 10": {
+    "side 1": "baseball",
+    "side 2": "やきゅう / 野球 (yakyuu)"
+  },
+  "part 11": {
+    "side 1": "play baseball",
+    "side 2": "やきゅうをします / 野球をします (yakyuu o shimasu)"
+  },
+  "part 12": {
+    "side 1": "dance",
+    "side 2": "ダンス (dansu)"
+  },
+  "part 13": {
+    "side 1": "dance (to dance)",
+    "side 2": "ダンスをします / dansu o shimasu"
+  },
+  "part 14": {
+    "side 1": "music",
+    "side 2": "おんがく / 音楽 (ongaku)"
+  },
+  "part 15": {
+    "side 1": "song",
+    "side 2": "うた / 歌 (uta)"
+  },
+  "part 16": {
+    "side 1": "classical music",
+    "side 2": "クラシック / kurashikku"
+  },
+  "part 17": {
+    "side 1": "jazz",
+    "side 2": "ジャズ / jazu"
+  },
+  "part 18": {
+    "side 1": "concert",
+    "side 2": "コンサート / konsaato"
+  },
+  "part 19": {
+    "side 1": "karaoke",
+    "side 2": "カラオケ / karaoke"
+  },
+  "part 20": {
+    "side 1": "Kabuki (traditional Japanese musical drama)",
+    "side 2": "かぶき / 歌舞伎 (kabuki)"
+  },
+  "part 21": {
+    "side 1": "picture, drawing",
+    "side 2": "え / 絵 (e)"
+  },
+  "part 22": {
+    "side 1": "letter, character",
+    "side 2": "じ / 字 (ji)"
+  },
+  "part 23": {
+    "side 1": "Chinese characters",
+    "side 2": "かんじ / 漢字 (kanji)"
+  },
+  "part 24": {
+    "side 1": "Hiragana script",
+    "side 2": "ひらがな / 平仮名 (hiragana)"
+  },
+  "part 25": {
+    "side 1": "Katakana script",
+    "side 2": "かたかな / 片仮名 (katakana)"
+  },
+  "part 26": {
+    "side 1": "the Roman alphabet",
+    "side 2": "ローマじ / ローマ字 (roomaji)"
+  },
+  "part 27": {
+    "side 1": "small change",
+    "side 2": "こまかいおかね / 細かいお金 (komakai okane)"
+  },
+  "part 28": {
+    "side 1": "ticket",
+    "side 2": "チケット / chiketto"
+  },
+  "part 29": {
+    "side 1": "time",
+    "side 2": "じかん / 時間 (jikan)"
+  },
+  "part 30": {
+    "side 1": "something to do, errand",
+    "side 2": "ようじ / 用事 (youji)"
+  },
+  "part 31": {
+    "side 1": "promise",
+    "side 2": "やくそく / 約束 (yakusoku)"
+  },
+  "part 32": {
+    "side 1": "someone else’s husband",
+    "side 2": "ごじゅじん / ご主人 (go-shujin)"
+  },
+  "part 33": {
+    "side 1": "my husband",
+    "side 2": "おっと / 夫 (otto)"
+  },
+  "part 34": {
+    "side 1": "my husband (alt.)",
+    "side 2": "じゅじん / 主人 (shujin)"
+  },
+  "part 35": {
+    "side 1": "someone else’s wife",
+    "side 2": "おくさん / 奥さん (okusan)"
+  },
+  "part 36": {
+    "side 1": "my wife",
+    "side 2": "つま / 妻 (tsuma)"
+  },
+  "part 37": {
+    "side 1": "my wife (alt.)",
+    "side 2": "かない / 家内 (kanai)"
+  },
+  "part 38": {
+    "side 1": "child",
+    "side 2": "こども / 子供 (kodomo)"
+  },
+  "part 39": {
+    "side 1": "well, much",
+    "side 2": "よく / 良く (yoku)"
+  },
+  "part 40": {
+    "side 1": "mostly, roughly",
+    "side 2": "だいたい / 大体 (daitai)"
+  },
+  "part 41": {
+    "side 1": "many, much",
+    "side 2": "たくさん / 沢山 (takusan)"
+  },
+  "part 42": {
+    "side 1": "a little, a few",
+    "side 2": "すこし / 少し (sukoshi)"
+  },
+  "part 43": {
+    "side 1": "not at all (used with negatives)",
+    "side 2": "ぜんぜん / 全然 (zenzen)"
+  },
+  "part 44": {
+    "side 1": "early, quickly, fast",
+    "side 2": "はやく / 早く (hayaku)"
+  },
+  "part 45": {
+    "side 1": "because~",
+    "side 2": "~から (~kara)"
+  },
+  "part 46": {
+    "side 1": "why",
+    "side 2": "どうして (doushite)"
+  },
+  "part 47": {
+    "side 1": "I’m sorry (to hear that)/That’s a pity",
+    "side 2": "ざんねんです / 残念です (zannen desu)"
+  },
+  "part 48": {
+    "side 1": "I’m sorry",
+    "side 2": "すみません / 済みません (sumimasen)"
+  },
+  "part 49": {
+    "side 1": "hello (used on phone)",
+    "side 2": "もしもし (moshi moshi)"
+  },
+  "part 50": {
+    "side 1": "oh",
+    "side 2": "ああ (aa)"
+  },
+  "part 51": {
+    "side 1": "Won’t you join me (us)?",
+    "side 2": "いっしょうにいかがですか / 一緒にいかがですか (isshou ni ikaga desu ka)"
+  },
+  "part 52": {
+    "side 1": "~is a bit difficult (used when declining an invitation politely)",
+    "side 2": "~はちょっと (~wa chotto)"
+  },
+  "part 53": {
+    "side 1": "So you cannot (come)?",
+    "side 2": "だめですか / 駄目ですか (dame desu ka)"
+  },
+  "part 54": {
+    "side 1": "please ask me again some other time (refusing indirectly, politely)",
+    "side 2": "またこんどおねがいしいます / また今度お願いします (mata kondo onegai shimasu)"
+  }
+}
