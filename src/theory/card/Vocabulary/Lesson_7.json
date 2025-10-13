@@ -1,0 +1,186 @@
+{
+  "part 0": {
+    "side 1": "cut",
+    "side 2": "きります / 切ります (kirimasu)"
+  },
+  "part 1": {
+    "side 1": "send",
+    "side 2": "おくります / 送ります (okurimasu)"
+  },
+  "part 2": {
+    "side 1": "give",
+    "side 2": "あげます (agemasu)"
+  },
+  "part 3": {
+    "side 1": "receive",
+    "side 2": "もらいます (moraimasu)"
+  },
+  "part 4": {
+    "side 1": "lend",
+    "side 2": "かします / 貸します (kashimasu)"
+  },
+  "part 5": {
+    "side 1": "borrow",
+    "side 2": "かります / 借ります (karimasu)"
+  },
+  "part 6": {
+    "side 1": "teach",
+    "side 2": "おしえます / 教えます (oshiemasu)"
+  },
+  "part 7": {
+    "side 1": "learn",
+    "side 2": "ならいます / 習います (naraimasu)"
+  },
+  "part 8": {
+    "side 1": "call",
+    "side 2": "かけます (kakemasu)"
+  },
+  "part 9": {
+    "side 1": "hand / arm",
+    "side 2": "て / 手 (te)"
+  },
+  "part 10": {
+    "side 1": "chopsticks",
+    "side 2": "はし / 箸 (hashi)"
+  },
+  "part 11": {
+    "side 1": "spoon",
+    "side 2": "スプーン (supūn)"
+  },
+  "part 12": {
+    "side 1": "knife",
+    "side 2": "ナイフ (naifu)"
+  },
+  "part 13": {
+    "side 1": "fork",
+    "side 2": "フォーク (fōku)"
+  },
+  "part 14": {
+    "side 1": "scissors",
+    "side 2": "はさみ / はさみ (hasami)"
+  },
+  "part 15": {
+    "side 1": "fax",
+    "side 2": "ファックス (fakkusu)"
+  },
+  "part 16": {
+    "side 1": "word processor",
+    "side 2": "ワープロ (wāpuro)"
+  },
+  "part 17": {
+    "side 1": "personal computer",
+    "side 2": "パソコン (pasokon)"
+  },
+  "part 18": {
+    "side 1": "punch",
+    "side 2": "パンチ (panchi)"
+  },
+  "part 19": {
+    "side 1": "stapler",
+    "side 2": "ホッチキス (hotchikisu)"
+  },
+  "part 20": {
+    "side 1": "Scotch tape",
+    "side 2": "セロテープ (serotēpu)"
+  },
+  "part 21": {
+    "side 1": "eraser",
+    "side 2": "けしゴム / 消しゴム (keshigomu)"
+  },
+  "part 22": {
+    "side 1": "paper",
+    "side 2": "かみ / 紙 (kami)"
+  },
+  "part 23": {
+    "side 1": "flower",
+    "side 2": "はな / 花 (hana)"
+  },
+  "part 24": {
+    "side 1": "shirt",
+    "side 2": "シャツ (shatsu)"
+  },
+  "part 25": {
+    "side 1": "present",
+    "side 2": "プレゼント (purezento)"
+  },
+  "part 26": {
+    "side 1": "baggage",
+    "side 2": "にもつ / 荷物 (nimotsu)"
+  },
+  "part 27": {
+    "side 1": "money",
+    "side 2": "おかね / お金 (okane)"
+  },
+  "part 28": {
+    "side 1": "ticket",
+    "side 2": "きっぷ / 切符 (kippu)"
+  },
+  "part 29": {
+    "side 1": "Christmas",
+    "side 2": "クリスマス (kurisumasu)"
+  },
+  "part 30": {
+    "side 1": "father",
+    "side 2": "ちち / 父 (chichi)"
+  },
+  "part 31": {
+    "side 1": "mother",
+    "side 2": "はは / 母 (haha)"
+  },
+  "part 32": {
+    "side 1": "father",
+    "side 2": "おとうさん / お父さん (otōsan)"
+  },
+  "part 33": {
+    "side 1": "mother",
+    "side 2": "おかあさん / お母さん (okāsan)"
+  },
+  "part 34": {
+    "side 1": "already",
+    "side 2": "もう (mō)"
+  },
+  "part 35": {
+    "side 1": "not yet",
+    "side 2": "まだ (mada)"
+  },
+  "part 36": {
+    "side 1": "soon",
+    "side 2": "もうすぐ (mōsugu)"
+  },
+  "part 37": {
+    "side 1": "What a nice ~",
+    "side 2": "〜、すてきですね (~, suteki desu ne)"
+  },
+  "part 38": {
+    "side 1": "Excuse me / Anybody home / May I come in",
+    "side 2": "ごめんください (gomen kudasai)"
+  },
+  "part 39": {
+    "side 1": "Welcome",
+    "side 2": "いらっしゃい (irasshai)"
+  },
+  "part 40": {
+    "side 1": "Do come in",
+    "side 2": "どうぞおあがりください (dōzo oagari kudasai)"
+  },
+  "part 41": {
+    "side 1": "Thank you / May I?",
+    "side 2": "しつれいします / 失礼します (shitsurei shimasu)"
+  },
+  "part 42": {
+    "side 1": "Won't you have ~ / Would you like to have ~",
+    "side 2": "〜は いかがですか (~ wa ikaga desu ka)"
+  },
+  "part 43": {
+    "side 1": "Thank you / I accept",
+    "side 2": "いただきます (itadakimasu)"
+  },
+  "part 44": {
+    "side 1": "trip",
+    "side 2": "りょこう / 旅行 (ryokō)"
+  },
+  "part 45": {
+    "side 1": "souvenir",
+    "side 2": "おみやげ / お土産 (omiyage)"
+  }
+}
