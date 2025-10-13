@@ -1,0 +1,434 @@
+[
+  {
+    "question": "get up",
+    "options": [
+      "けさ / 今朝 (kesa)",
+      "おきます / 起きます (okimasu)",
+      "ねます / 寝ます (nemasu)"
+    ],
+    "answer": "おきます / 起きます (okimasu)"
+  },
+  {
+    "question": "sleep",
+    "options": [
+      "こんばん / 今晩 (konban)",
+      "けさ / 今朝 (kesa)",
+      "ねます / 寝ます (nemasu)"
+    ],
+    "answer": "ねます / 寝ます (nemasu)"
+  },
+  {
+    "question": "work",
+    "options": [
+      "こんばん / 今晩 (konban)",
+      "はたらきます / 働きます (hatarakimasu)",
+      "そちら / そちら (sochira)"
+    ],
+    "answer": "はたらきます / 働きます (hatarakimasu)"
+  },
+  {
+    "question": "take a rest",
+    "options": [
+      "やすみます / 休みます (yasumimasu)",
+      "おきます / 起きます (okimasu)",
+      "まで～ / まで～ (made～)"
+    ],
+    "answer": "やすみます / 休みます (yasumimasu)"
+  },
+  {
+    "question": "study",
+    "options": [
+      "おわります / 終わります (owarimasu)",
+      "～と～ / ～と～ (～to～)",
+      "べんきょうします / 勉強します (benkyoushimasu)"
+    ],
+    "answer": "べんきょうします / 勉強します (benkyoushimasu)"
+  },
+  {
+    "question": "finish",
+    "options": [
+      "おわります / 終わります (owarimasu)",
+      "なんばん / 何番 (nanban)",
+      "おきます / 起きます (okimasu)"
+    ],
+    "answer": "おわります / 終わります (owarimasu)"
+  },
+  {
+    "question": "department store",
+    "options": [
+      "ぎんこう / 銀行 (ginkou)",
+      "ゆうびんきょく / 郵便局 (yuubinkyoku)",
+      "デパート / - (depaato)"
+    ],
+    "answer": "デパート / - (depaato)"
+  },
+  {
+    "question": "bank",
+    "options": [
+      "ぎんこう / 銀行 (ginkou)",
+      "デパート / - (depaato)",
+      "びじゅつかん / 美術館 (bijutsukan)"
+    ],
+    "answer": "ぎんこう / 銀行 (ginkou)"
+  },
+  {
+    "question": "post office",
+    "options": [
+      "としょかん / 図書館 (toshokan)",
+      "デパート / - (depaato)",
+      "ゆうびんきょく / 郵便局 (yuubinkyoku)"
+    ],
+    "answer": "ゆうびんきょく / 郵便局 (yuubinkyoku)"
+  },
+  {
+    "question": "library",
+    "options": [
+      "デパート / - (depaato)",
+      "ぎんこう / 銀行 (ginkou)",
+      "としょかん / 図書館 (toshokan)"
+    ],
+    "answer": "としょかん / 図書館 (toshokan)"
+  },
+  {
+    "question": "art museum",
+    "options": [
+      "ゆうびんきょく / 郵便局 (yuubinkyoku)",
+      "びじゅつかん / 美術館 (bijutsukan)",
+      "ぎんこう / 銀行 (ginkou)"
+    ],
+    "answer": "びじゅつかん / 美術館 (bijutsukan)"
+  },
+  {
+    "question": "now",
+    "options": [
+      "はん / 半 (han)",
+      "いま / 今 (ima)",
+      "なんじ / 何時 (nanji)"
+    ],
+    "answer": "いま / 今 (ima)"
+  },
+  {
+    "question": "～o'clock",
+    "options": [
+      "～じ / ～時 (～ji)",
+      "なんふん / 何分 (nanfun)",
+      "ごご / 午後 (gogo)"
+    ],
+    "answer": "～じ / ～時 (～ji)"
+  },
+  {
+    "question": "～minute",
+    "options": [
+      "なんふん / 何分 (nanfun)",
+      "～ふん/～ぷん / ～分 (～fun/～pun)",
+      "なんじ / 何時 (nanji)"
+    ],
+    "answer": "～ふん/～ぷん / ～分 (～fun/～pun)"
+  },
+  {
+    "question": "half",
+    "options": [
+      "はん / 半 (han)",
+      "ごご / 午後 (gogo)",
+      "～ふん/～ぷん / ～分 (～fun/～pun)"
+    ],
+    "answer": "はん / 半 (han)"
+  },
+  {
+    "question": "what time",
+    "options": [
+      "ごご / 午後 (gogo)",
+      "なんじ / 何時 (nanji)",
+      "いま / 今 (ima)"
+    ],
+    "answer": "なんじ / 何時 (nanji)"
+  },
+  {
+    "question": "what minute",
+    "options": [
+      "ごご / 午後 (gogo)",
+      "なんふん / 何分 (nanfun)",
+      "なんじ / 何時 (nanji)"
+    ],
+    "answer": "なんふん / 何分 (nanfun)"
+  },
+  {
+    "question": "a.m.",
+    "options": [
+      "ごぜん / 午前 (gozen)",
+      "いま / 今 (ima)",
+      "ごご / 午後 (gogo)"
+    ],
+    "answer": "ごぜん / 午前 (gozen)"
+  },
+  {
+    "question": "p.m.",
+    "options": [
+      "～ふん/～ぷん / ～分 (～fun/～pun)",
+      "いま / 今 (ima)",
+      "ごご / 午後 (gogo)"
+    ],
+    "answer": "ごご / 午後 (gogo)"
+  },
+  {
+    "question": "morning",
+    "options": [
+      "よる / 夜 (yoru)",
+      "ひるやすみ / 昼休み (hiruyasumi)",
+      "あさ / 朝 (asa)"
+    ],
+    "answer": "あさ / 朝 (asa)"
+  },
+  {
+    "question": "noon",
+    "options": [
+      "ひる / 昼 (hiru)",
+      "ひるやすみ / 昼休み (hiruyasumi)",
+      "まいあさ / 毎朝 (maiasa)"
+    ],
+    "answer": "ひる / 昼 (hiru)"
+  },
+  {
+    "question": "evening/night",
+    "options": [
+      "まいあさ / 毎朝 (maiasa)",
+      "よる / 夜 (yoru)",
+      "ひる / 昼 (hiru)"
+    ],
+    "answer": "よる / 夜 (yoru)"
+  },
+  {
+    "question": "the day before yesterday",
+    "options": [
+      "あした / 明日 (ashita)",
+      "おととい / 一昨日 (ototoi)",
+      "きのう / 昨日 (kinou)"
+    ],
+    "answer": "おととい / 一昨日 (ototoi)"
+  },
+  {
+    "question": "yesterday",
+    "options": [
+      "きのう / 昨日 (kinou)",
+      "きょう / 今日 (kyou)",
+      "おととい / 一昨日 (ototoi)"
+    ],
+    "answer": "きのう / 昨日 (kinou)"
+  },
+  {
+    "question": "today",
+    "options": [
+      "きのう / 昨日 (kinou)",
+      "きょう / 今日 (kyou)",
+      "おととい / 一昨日 (ototoi)"
+    ],
+    "answer": "きょう / 今日 (kyou)"
+  },
+  {
+    "question": "tomorrow",
+    "options": [
+      "あした / 明日 (ashita)",
+      "おととい / 一昨日 (ototoi)",
+      "あさって / 明後日 (asatte)"
+    ],
+    "answer": "あした / 明日 (ashita)"
+  },
+  {
+    "question": "the day after tomorrow",
+    "options": [
+      "きのう / 昨日 (kinou)",
+      "あさって / 明後日 (asatte)",
+      "おととい / 一昨日 (ototoi)"
+    ],
+    "answer": "あさって / 明後日 (asatte)"
+  },
+  {
+    "question": "this morning",
+    "options": [
+      "おきます / 起きます (okimasu)",
+      "やすみます / 休みます (yasumimasu)",
+      "けさ / 今朝 (kesa)"
+    ],
+    "answer": "けさ / 今朝 (kesa)"
+  },
+  {
+    "question": "this evening",
+    "options": [
+      "なんばん / 何番 (nanban)",
+      "おわります / 終わります (owarimasu)",
+      "こんばん / 今晩 (konban)"
+    ],
+    "answer": "こんばん / 今晩 (konban)"
+  },
+  {
+    "question": "rest",
+    "options": [
+      "やすみ / 休み (yasumi)",
+      "ひる / 昼 (hiru)",
+      "あさ / 朝 (asa)"
+    ],
+    "answer": "やすみ / 休み (yasumi)"
+  },
+  {
+    "question": "lunchtime",
+    "options": [
+      "よる / 夜 (yoru)",
+      "まいにち / 毎日 (mainichi)",
+      "ひるやすみ / 昼休み (hiruyasumi)"
+    ],
+    "answer": "ひるやすみ / 昼休み (hiruyasumi)"
+  },
+  {
+    "question": "every morning",
+    "options": [
+      "あさ / 朝 (asa)",
+      "まいあさ / 毎朝 (maiasa)",
+      "ひる / 昼 (hiru)"
+    ],
+    "answer": "まいあさ / 毎朝 (maiasa)"
+  },
+  {
+    "question": "every night",
+    "options": [
+      "まいにち / 毎日 (mainichi)",
+      "やすみ / 休み (yasumi)",
+      "まいばん / 毎晩 (maiban)"
+    ],
+    "answer": "まいばん / 毎晩 (maiban)"
+  },
+  {
+    "question": "everyday",
+    "options": [
+      "ひるやすみ / 昼休み (hiruyasumi)",
+      "まいにち / 毎日 (mainichi)",
+      "ひる / 昼 (hiru)"
+    ],
+    "answer": "まいにち / 毎日 (mainichi)"
+  },
+  {
+    "question": "Monday",
+    "options": [
+      "どようび / 土曜日 (doyoubi)",
+      "にちようび / 日曜日 (nichiyoubi)",
+      "げつようび / 月曜日 (getsuyoubi)"
+    ],
+    "answer": "げつようび / 月曜日 (getsuyoubi)"
+  },
+  {
+    "question": "Tuesday",
+    "options": [
+      "かようび / 火曜日 (kayoubi)",
+      "にちようび / 日曜日 (nichiyoubi)",
+      "げつようび / 月曜日 (getsuyoubi)"
+    ],
+    "answer": "かようび / 火曜日 (kayoubi)"
+  },
+  {
+    "question": "Wednesday",
+    "options": [
+      "すいようび / 水曜日 (suiyoubi)",
+      "どようび / 土曜日 (doyoubi)",
+      "かようび / 火曜日 (kayoubi)"
+    ],
+    "answer": "すいようび / 水曜日 (suiyoubi)"
+  },
+  {
+    "question": "Thursday",
+    "options": [
+      "もくようび / 木曜日 (mokuyoubi)",
+      "すいようび / 水曜日 (suiyoubi)",
+      "げつようび / 月曜日 (getsuyoubi)"
+    ],
+    "answer": "もくようび / 木曜日 (mokuyoubi)"
+  },
+  {
+    "question": "Friday",
+    "options": [
+      "げつようび / 月曜日 (getsuyoubi)",
+      "すいようび / 水曜日 (suiyoubi)",
+      "きんようび / 金曜日 (kinyoubi)"
+    ],
+    "answer": "きんようび / 金曜日 (kinyoubi)"
+  },
+  {
+    "question": "Saturday",
+    "options": [
+      "きんようび / 金曜日 (kinyoubi)",
+      "どようび / 土曜日 (doyoubi)",
+      "にちようび / 日曜日 (nichiyoubi)"
+    ],
+    "answer": "どようび / 土曜日 (doyoubi)"
+  },
+  {
+    "question": "Sunday",
+    "options": [
+      "にちようび / 日曜日 (nichiyoubi)",
+      "かようび / 火曜日 (kayoubi)",
+      "げつようび / 月曜日 (getsuyoubi)"
+    ],
+    "answer": "にちようび / 日曜日 (nichiyoubi)"
+  },
+  {
+    "question": "What day of the week",
+    "options": [
+      "なんようび / 何曜日 (nanyoubi)",
+      "げつようび / 月曜日 (getsuyoubi)",
+      "もくようび / 木曜日 (mokuyoubi)"
+    ],
+    "answer": "なんようび / 何曜日 (nanyoubi)"
+  },
+  {
+    "question": "number",
+    "options": [
+      "なんばん / 何番 (nanban)",
+      "ばんごう / 番号 (bangou)",
+      "べんきょうします / 勉強します (benkyoushimasu)"
+    ],
+    "answer": "ばんごう / 番号 (bangou)"
+  },
+  {
+    "question": "What number",
+    "options": [
+      "なんばん / 何番 (nanban)",
+      "けさ / 今朝 (kesa)",
+      "そちら / そちら (sochira)"
+    ],
+    "answer": "なんばん / 何番 (nanban)"
+  },
+  {
+    "question": "from～",
+    "options": [
+      "から～ / から～ (kara～)",
+      "おわります / 終わります (owarimasu)",
+      "おきます / 起きます (okimasu)"
+    ],
+    "answer": "から～ / から～ (kara～)"
+  },
+  {
+    "question": "to～",
+    "options": [
+      "まで～ / まで～ (made～)",
+      "ねます / 寝ます (nemasu)",
+      "～と～ / ～と～ (～to～)"
+    ],
+    "answer": "まで～ / まで～ (made～)"
+  },
+  {
+    "question": "～and～",
+    "options": [
+      "おきます / 起きます (okimasu)",
+      "ねます / 寝ます (nemasu)",
+      "～と～ / ～と～ (～to～)"
+    ],
+    "answer": "～と～ / ～と～ (～to～)"
+  },
+  {
+    "question": "your place",
+    "options": [
+      "おわります / 終わります (owarimasu)",
+      "そちら / そちら (sochira)",
+      "から～ / から～ (kara～)"
+    ],
+    "answer": "そちら / そちら (sochira)"
+  }
+]
