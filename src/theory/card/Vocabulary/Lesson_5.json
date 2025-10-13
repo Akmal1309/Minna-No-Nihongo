@@ -1,0 +1,178 @@
+{
+  "part 0": {
+    "side 1": "to go",
+    "side 2": "いきます / 行きます (ikimasu)"
+  },
+  "part 1": {
+    "side 1": "to come",
+    "side 2": "きます / 来ます (kimasu)"
+  },
+  "part 2": {
+    "side 1": "to come back",
+    "side 2": "かえります / 帰ります (kaerimasu)"
+  },
+  "part 3": {
+    "side 1": "school",
+    "side 2": "がっこう / 学校 (gakkou)"
+  },
+  "part 4": {
+    "side 1": "supermarket",
+    "side 2": "スーパー (suupaa)"
+  },
+  "part 5": {
+    "side 1": "station",
+    "side 2": "えき / 駅 (eki)"
+  },
+  "part 6": {
+    "side 1": "airplane",
+    "side 2": "ひこうき / 飛行機 (hikouki)"
+  },
+  "part 7": {
+    "side 1": "ship",
+    "side 2": "ふね / 船 (fune)"
+  },
+  "part 8": {
+    "side 1": "electric train",
+    "side 2": "でんしゃ / 電車 (densha)"
+  },
+  "part 9": {
+    "side 1": "underground",
+    "side 2": "ちかてつ / 地下鉄 (chikatetsu)"
+  },
+  "part 10": {
+    "side 1": "the Shinkansen",
+    "side 2": "しんかんせん / 新幹線 (shinkansen)"
+  },
+  "part 11": {
+    "side 1": "bus",
+    "side 2": "バス (basu)"
+  },
+  "part 12": {
+    "side 1": "taxi",
+    "side 2": "タクシー (takusshi)"
+  },
+  "part 13": {
+    "side 1": "bicycle",
+    "side 2": "じてんしゃ / 自転車 (jitensha)"
+  },
+  "part 14": {
+    "side 1": "on foot",
+    "side 2": "あるいて / 歩いて (aruite)"
+  },
+  "part 15": {
+    "side 1": "person/people",
+    "side 2": "ひと / 人 (hito)"
+  },
+  "part 16": {
+    "side 1": "friend",
+    "side 2": "ともだち / 友達 (tomodachi)"
+  },
+  "part 17": {
+    "side 1": "he",
+    "side 2": "かれ / 彼 (kare)"
+  },
+  "part 18": {
+    "side 1": "she",
+    "side 2": "かのじょ / 彼女 (kanojo)"
+  },
+  "part 19": {
+    "side 1": "family",
+    "side 2": "かぞく / 家族 (kazoku)"
+  },
+  "part 20": {
+    "side 1": "alone",
+    "side 2": "ひとりで / 一人で (hitoride)"
+  },
+  "part 21": {
+    "side 1": "last week",
+    "side 2": "せんしゅう / 先週 (senshuu)"
+  },
+  "part 22": {
+    "side 1": "this week",
+    "side 2": "こんしゅう / 今週 (konshuu)"
+  },
+  "part 23": {
+    "side 1": "next week",
+    "side 2": "らいしゅう / 来週 (raishuu)"
+  },
+  "part 24": {
+    "side 1": "last month",
+    "side 2": "せんげつ / 先月 (sengetsu)"
+  },
+  "part 25": {
+    "side 1": "this month",
+    "side 2": "こんげつ / 今月 (kongetsu)"
+  },
+  "part 26": {
+    "side 1": "next month",
+    "side 2": "らいげつ / 来月 (raigetsu)"
+  },
+  "part 27": {
+    "side 1": "last year",
+    "side 2": "きょねん / 去年 (kyonen)"
+  },
+  "part 28": {
+    "side 1": "this year",
+    "side 2": "ことし / 今年 (kotoshi)"
+  },
+  "part 29": {
+    "side 1": "next year",
+    "side 2": "らいねん / 来年 (rainen)"
+  },
+  "part 30": {
+    "side 1": "year",
+    "side 2": "ーねん / ー年 (nen)"
+  },
+  "part 31": {
+    "side 1": "What year?",
+    "side 2": "なんねん / 何年 (nannen)"
+  },
+  "part 32": {
+    "side 1": "month",
+    "side 2": "ーがつ / ー月 (gatsu)"
+  },
+  "part 33": {
+    "side 1": "What month?",
+    "side 2": "なんがつ / 何月 (nangatsu)"
+  },
+  "part 34": {
+    "side 1": "When?",
+    "side 2": "いつ (itsu)"
+  },
+  "part 35": {
+    "side 1": "birthday",
+    "side 2": "たんじょうび / 誕生日 (tanjoubi)"
+  },
+  "part 36": {
+    "side 1": "local",
+    "side 2": "ふつう / 普通 (futsuu)"
+  },
+  "part 37": {
+    "side 1": "rapid",
+    "side 2": "きゅうこう / 急行 (kyuukou)"
+  },
+  "part 38": {
+    "side 1": "express",
+    "side 2": "とっきゅう / 特急 (tokkyuu)"
+  },
+  "part 39": {
+    "side 1": "next",
+    "side 2": "つぎの / 次の (tsugino)"
+  },
+  "part 40": {
+    "side 1": "Yes, you are right",
+    "side 2": "そうですね。 (soudesne)"
+  },
+  "part 41": {
+    "side 1": "Thank you very much",
+    "side 2": "「どうも」ありがとう　ございました。 ([doumo] arigatou gozaimashita)"
+  },
+  "part 42": {
+    "side 1": "You are welcome",
+    "side 2": "どういたしまして (douitashimashite)"
+  },
+  "part 43": {
+    "side 1": "platform",
+    "side 2": "ーばんせん / ー番線 (bansen)"
+  }
+}
