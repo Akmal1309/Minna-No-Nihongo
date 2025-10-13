@@ -1,0 +1,398 @@
+[
+  {
+    "question": "to go",
+    "options": [
+      "いきます / 行きます (ikimasu)",
+      "ことし / 今年 (kotoshi)",
+      "「どうも」ありがとう　ございました。 ([doumo] arigatou gozaimashita)"
+    ],
+    "answer": "いきます / 行きます (ikimasu)"
+  },
+  {
+    "question": "to come",
+    "options": [
+      "ふね / 船 (fune)",
+      "ーねん / ー年 (nen)",
+      "きます / 来ます (kimasu)"
+    ],
+    "answer": "きます / 来ます (kimasu)"
+  },
+  {
+    "question": "to come back",
+    "options": [
+      "ちかてつ / 地下鉄 (chikatetsu)",
+      "がっこう / 学校 (gakkou)",
+      "かえります / 帰ります (kaerimasu)"
+    ],
+    "answer": "かえります / 帰ります (kaerimasu)"
+  },
+  {
+    "question": "school",
+    "options": [
+      "がっこう / 学校 (gakkou)",
+      "らいしゅう / 来週 (raishuu)",
+      "ともだち / 友達 (tomodachi)"
+    ],
+    "answer": "がっこう / 学校 (gakkou)"
+  },
+  {
+    "question": "supermarket",
+    "options": [
+      "ふつう / 普通 (futsuu)",
+      "ひと / 人 (hito)",
+      "スーパー (suupaa)"
+    ],
+    "answer": "スーパー (suupaa)"
+  },
+  {
+    "question": "station",
+    "options": [
+      "がっこう / 学校 (gakkou)",
+      "えき / 駅 (eki)",
+      "バス (basu)"
+    ],
+    "answer": "えき / 駅 (eki)"
+  },
+  {
+    "question": "airplane",
+    "options": [
+      "タクシー (takusshi)",
+      "じてんしゃ / 自転車 (jitensha)",
+      "ひこうき / 飛行機 (hikouki)"
+    ],
+    "answer": "ひこうき / 飛行機 (hikouki)"
+  },
+  {
+    "question": "ship",
+    "options": [
+      "ひこうき / 飛行機 (hikouki)",
+      "タクシー (takusshi)",
+      "ふね / 船 (fune)"
+    ],
+    "answer": "ふね / 船 (fune)"
+  },
+  {
+    "question": "electric train",
+    "options": [
+      "でんしゃ / 電車 (densha)",
+      "タクシー (takusshi)",
+      "ひこうき / 飛行機 (hikouki)"
+    ],
+    "answer": "でんしゃ / 電車 (densha)"
+  },
+  {
+    "question": "underground",
+    "options": [
+      "どういたしまして (douitashimashite)",
+      "ちかてつ / 地下鉄 (chikatetsu)",
+      "バス (basu)"
+    ],
+    "answer": "ちかてつ / 地下鉄 (chikatetsu)"
+  },
+  {
+    "question": "the Shinkansen",
+    "options": [
+      "ともだち / 友達 (tomodachi)",
+      "しんかんせん / 新幹線 (shinkansen)",
+      "いつ (itsu)"
+    ],
+    "answer": "しんかんせん / 新幹線 (shinkansen)"
+  },
+  {
+    "question": "bus",
+    "options": [
+      "でんしゃ / 電車 (densha)",
+      "バス (basu)",
+      "じてんしゃ / 自転車 (jitensha)"
+    ],
+    "answer": "バス (basu)"
+  },
+  {
+    "question": "taxi",
+    "options": [
+      "タクシー (takusshi)",
+      "ふね / 船 (fune)",
+      "ひこうき / 飛行機 (hikouki)"
+    ],
+    "answer": "タクシー (takusshi)"
+  },
+  {
+    "question": "bicycle",
+    "options": [
+      "かのじょ / 彼女 (kanojo)",
+      "「どうも」ありがとう　ございました。 ([doumo] arigatou gozaimashita)",
+      "じてんしゃ / 自転車 (jitensha)"
+    ],
+    "answer": "じてんしゃ / 自転車 (jitensha)"
+  },
+  {
+    "question": "on foot",
+    "options": [
+      "たんじょうび / 誕生日 (tanjoubi)",
+      "あるいて / 歩いて (aruite)",
+      "バス (basu)"
+    ],
+    "answer": "あるいて / 歩いて (aruite)"
+  },
+  {
+    "question": "person/people",
+    "options": [
+      "でんしゃ / 電車 (densha)",
+      "こんしゅう / 今週 (konshuu)",
+      "ひと / 人 (hito)"
+    ],
+    "answer": "ひと / 人 (hito)"
+  },
+  {
+    "question": "friend",
+    "options": [
+      "ともだち / 友達 (tomodachi)",
+      "かれ / 彼 (kare)",
+      "かのじょ / 彼女 (kanojo)"
+    ],
+    "answer": "ともだち / 友達 (tomodachi)"
+  },
+  {
+    "question": "he",
+    "options": [
+      "かぞく / 家族 (kazoku)",
+      "かれ / 彼 (kare)",
+      "ひと / 人 (hito)"
+    ],
+    "answer": "かれ / 彼 (kare)"
+  },
+  {
+    "question": "she",
+    "options": [
+      "かのじょ / 彼女 (kanojo)",
+      "かれ / 彼 (kare)",
+      "しんかんせん / 新幹線 (shinkansen)"
+    ],
+    "answer": "かのじょ / 彼女 (kanojo)"
+  },
+  {
+    "question": "family",
+    "options": [
+      "いつ (itsu)",
+      "かれ / 彼 (kare)",
+      "かぞく / 家族 (kazoku)"
+    ],
+    "answer": "かぞく / 家族 (kazoku)"
+  },
+  {
+    "question": "alone",
+    "options": [
+      "ふね / 船 (fune)",
+      "ふつう / 普通 (futsuu)",
+      "ひとりで / 一人で (hitoride)"
+    ],
+    "answer": "ひとりで / 一人で (hitoride)"
+  },
+  {
+    "question": "last week",
+    "options": [
+      "なんねん / 何年 (nannen)",
+      "せんしゅう / 先週 (senshuu)",
+      "きょねん / 去年 (kyonen)"
+    ],
+    "answer": "せんしゅう / 先週 (senshuu)"
+  },
+  {
+    "question": "this week",
+    "options": [
+      "いつ (itsu)",
+      "らいげつ / 来月 (raigetsu)",
+      "こんしゅう / 今週 (konshuu)"
+    ],
+    "answer": "こんしゅう / 今週 (konshuu)"
+  },
+  {
+    "question": "next week",
+    "options": [
+      "なんねん / 何年 (nannen)",
+      "らいしゅう / 来週 (raishuu)",
+      "なんがつ / 何月 (nangatsu)"
+    ],
+    "answer": "らいしゅう / 来週 (raishuu)"
+  },
+  {
+    "question": "last month",
+    "options": [
+      "たんじょうび / 誕生日 (tanjoubi)",
+      "せんげつ / 先月 (sengetsu)",
+      "こんしゅう / 今週 (konshuu)"
+    ],
+    "answer": "せんげつ / 先月 (sengetsu)"
+  },
+  {
+    "question": "this month",
+    "options": [
+      "たんじょうび / 誕生日 (tanjoubi)",
+      "こんげつ / 今月 (kongetsu)",
+      "らいねん / 来年 (rainen)"
+    ],
+    "answer": "こんげつ / 今月 (kongetsu)"
+  },
+  {
+    "question": "next month",
+    "options": [
+      "らいげつ / 来月 (raigetsu)",
+      "たんじょうび / 誕生日 (tanjoubi)",
+      "ことし / 今年 (kotoshi)"
+    ],
+    "answer": "らいげつ / 来月 (raigetsu)"
+  },
+  {
+    "question": "last year",
+    "options": [
+      "きょねん / 去年 (kyonen)",
+      "たんじょうび / 誕生日 (tanjoubi)",
+      "ーねん / ー年 (nen)"
+    ],
+    "answer": "きょねん / 去年 (kyonen)"
+  },
+  {
+    "question": "this year",
+    "options": [
+      "ことし / 今年 (kotoshi)",
+      "こんしゅう / 今週 (konshuu)",
+      "なんがつ / 何月 (nangatsu)"
+    ],
+    "answer": "ことし / 今年 (kotoshi)"
+  },
+  {
+    "question": "next year",
+    "options": [
+      "らいねん / 来年 (rainen)",
+      "たんじょうび / 誕生日 (tanjoubi)",
+      "こんしゅう / 今週 (konshuu)"
+    ],
+    "answer": "らいねん / 来年 (rainen)"
+  },
+  {
+    "question": "year",
+    "options": [
+      "ーねん / ー年 (nen)",
+      "らいねん / 来年 (rainen)",
+      "なんねん / 何年 (nannen)"
+    ],
+    "answer": "ーねん / ー年 (nen)"
+  },
+  {
+    "question": "What year?",
+    "options": [
+      "きょねん / 去年 (kyonen)",
+      "なんねん / 何年 (nannen)",
+      "らいげつ / 来月 (raigetsu)"
+    ],
+    "answer": "なんねん / 何年 (nannen)"
+  },
+  {
+    "question": "month",
+    "options": [
+      "なんがつ / 何月 (nangatsu)",
+      "こんげつ / 今月 (kongetsu)",
+      "ーがつ / ー月 (gatsu)"
+    ],
+    "answer": "ーがつ / ー月 (gatsu)"
+  },
+  {
+    "question": "What month?",
+    "options": [
+      "らいしゅう / 来週 (raishuu)",
+      "なんがつ / 何月 (nangatsu)",
+      "らいげつ / 来月 (raigetsu)"
+    ],
+    "answer": "なんがつ / 何月 (nangatsu)"
+  },
+  {
+    "question": "When?",
+    "options": [
+      "ことし / 今年 (kotoshi)",
+      "いつ (itsu)",
+      "せんしゅう / 先週 (senshuu)"
+    ],
+    "answer": "いつ (itsu)"
+  },
+  {
+    "question": "birthday",
+    "options": [
+      "たんじょうび / 誕生日 (tanjoubi)",
+      "きょねん / 去年 (kyonen)",
+      "いつ (itsu)"
+    ],
+    "answer": "たんじょうび / 誕生日 (tanjoubi)"
+  },
+  {
+    "question": "local",
+    "options": [
+      "バス (basu)",
+      "ふつう / 普通 (futsuu)",
+      "ひこうき / 飛行機 (hikouki)"
+    ],
+    "answer": "ふつう / 普通 (futsuu)"
+  },
+  {
+    "question": "rapid",
+    "options": [
+      "らいしゅう / 来週 (raishuu)",
+      "バス (basu)",
+      "きゅうこう / 急行 (kyuukou)"
+    ],
+    "answer": "きゅうこう / 急行 (kyuukou)"
+  },
+  {
+    "question": "express",
+    "options": [
+      "とっきゅう / 特急 (tokkyuu)",
+      "こんしゅう / 今週 (konshuu)",
+      "しんかんせん / 新幹線 (shinkansen)"
+    ],
+    "answer": "とっきゅう / 特急 (tokkyuu)"
+  },
+  {
+    "question": "next",
+    "options": [
+      "なんねん / 何年 (nannen)",
+      "つぎの / 次の (tsugino)",
+      "いきます / 行きます (ikimasu)"
+    ],
+    "answer": "つぎの / 次の (tsugino)"
+  },
+  {
+    "question": "Yes, you are right",
+    "options": [
+      "ふね / 船 (fune)",
+      "なんがつ / 何月 (nangatsu)",
+      "そうですね。 (soudesne)"
+    ],
+    "answer": "そうですね。 (soudesne)"
+  },
+  {
+    "question": "Thank you very much",
+    "options": [
+      "「どうも」ありがとう　ございました。 ([doumo] arigatou gozaimashita)",
+      "せんげつ / 先月 (sengetsu)",
+      "こんげつ / 今月 (kongetsu)"
+    ],
+    "answer": "「どうも」ありがとう　ございました。 ([doumo] arigatou gozaimashita)"
+  },
+  {
+    "question": "You are welcome",
+    "options": [
+      "どういたしまして (douitashimashite)",
+      "ともだち / 友達 (tomodachi)",
+      "きょねん / 去年 (kyonen)"
+    ],
+    "answer": "どういたしまして (douitashimashite)"
+  },
+  {
+    "question": "platform",
+    "options": [
+      "ーばんせん / ー番線 (bansen)",
+      "じてんしゃ / 自転車 (jitensha)",
+      "がっこう / 学校 (gakkou)"
+    ],
+    "answer": "ーばんせん / ー番線 (bansen)"
+  }
+]
