@@ -1,0 +1,378 @@
+[
+  {
+    "question": "here, this place",
+    "options": [
+      "あちら / 彼方 (achira)",
+      "きょうしつ / 教室 (kyoushitsu)",
+      "ここ / 此処 (koko)"
+    ],
+    "answer": "ここ / 此処 (koko)"
+  },
+  {
+    "question": "there, that place near you",
+    "options": [
+      "そこ / 其処 (soko)",
+      "どこ / 何処 (doko)",
+      "うけつけ / 受付 (uketsuke)"
+    ],
+    "answer": "そこ / 其処 (soko)"
+  },
+  {
+    "question": "that place over there",
+    "options": [
+      "ロビー (robii)",
+      "あそこ / 彼処 (asoko)",
+      "かいだん / 階段 (kaidan)"
+    ],
+    "answer": "あそこ / 彼処 (asoko)"
+  },
+  {
+    "question": "where, what place?",
+    "options": [
+      "へや / 部屋 (heya)",
+      "ロビー (robii)",
+      "どこ / 何処 (doko)"
+    ],
+    "answer": "どこ / 何処 (doko)"
+  },
+  {
+    "question": "this way, this place (polite)",
+    "options": [
+      "こちら / 此方 (kochira)",
+      "あそこ / 彼処 (asoko)",
+      "ロビー (robii)"
+    ],
+    "answer": "こちら / 此方 (kochira)"
+  },
+  {
+    "question": "that place near you (polite)",
+    "options": [
+      "そちら / 其方 (sochira)",
+      "あそこ / 彼処 (asoko)",
+      "こちら / 此方 (kochira)"
+    ],
+    "answer": "そちら / 其方 (sochira)"
+  },
+  {
+    "question": "that way, over there (polite)",
+    "options": [
+      "きょうしつ / 教室 (kyoushitsu)",
+      "あちら / 彼方 (achira)",
+      "どこ / 何処 (doko)"
+    ],
+    "answer": "あちら / 彼方 (achira)"
+  },
+  {
+    "question": "which way, where (polite)",
+    "options": [
+      "あそこ / 彼処 (asoko)",
+      "どちら / 何方 (dochira)",
+      "そちら / 其方 (sochira)"
+    ],
+    "answer": "どちら / 何方 (dochira)"
+  },
+  {
+    "question": "classroom",
+    "options": [
+      "きょうしつ / 教室 (kyoushitsu)",
+      "どこ / 何処 (doko)",
+      "こちら / 此方 (kochira)"
+    ],
+    "answer": "きょうしつ / 教室 (kyoushitsu)"
+  },
+  {
+    "question": "dining hall, canteen",
+    "options": [
+      "そちら / 其方 (sochira)",
+      "しょくどう / 食堂 (shokudou)",
+      "ロビー (robii)"
+    ],
+    "answer": "しょくどう / 食堂 (shokudou)"
+  },
+  {
+    "question": "office",
+    "options": [
+      "エスカレーター (esukareetaa)",
+      "じむしょ / 事務所 (jimusho)",
+      "きょうしつ / 教室 (kyoushitsu)"
+    ],
+    "answer": "じむしょ / 事務所 (jimusho)"
+  },
+  {
+    "question": "meeting/conference room",
+    "options": [
+      "トイレ (toire)",
+      "かいぎしつ / 会議室 (kaigishitsu)",
+      "かいだん / 階段 (kaidan)"
+    ],
+    "answer": "かいぎしつ / 会議室 (kaigishitsu)"
+  },
+  {
+    "question": "reception desk",
+    "options": [
+      "エスカレーター (esukareetaa)",
+      "うけつけ / 受付 (uketsuke)",
+      "そちら / 其方 (sochira)"
+    ],
+    "answer": "うけつけ / 受付 (uketsuke)"
+  },
+  {
+    "question": "lobby",
+    "options": [
+      "ロビー (robii)",
+      "エスカレーター (esukareetaa)",
+      "かいだん / 階段 (kaidan)"
+    ],
+    "answer": "ロビー (robii)"
+  },
+  {
+    "question": "room",
+    "options": [
+      "トイレ (toire)",
+      "ロビー (robii)",
+      "へや / 部屋 (heya)"
+    ],
+    "answer": "へや / 部屋 (heya)"
+  },
+  {
+    "question": "toilet, restroom",
+    "options": [
+      "そちら / 其方 (sochira)",
+      "トイレ (toire)",
+      "かいぎしつ / 会議室 (kaigishitsu)"
+    ],
+    "answer": "トイレ (toire)"
+  },
+  {
+    "question": "toilet, restroom",
+    "options": [
+      "おてあらい / お手洗い (otearai)",
+      "ここ / 此処 (koko)",
+      "トイレ (toire)"
+    ],
+    "answer": "おてあらい / お手洗い (otearai)"
+  },
+  {
+    "question": "staircase",
+    "options": [
+      "かいだん / 階段 (kaidan)",
+      "ここ / 此処 (koko)",
+      "あそこ / 彼処 (asoko)"
+    ],
+    "answer": "かいだん / 階段 (kaidan)"
+  },
+  {
+    "question": "elevator, lift",
+    "options": [
+      "かいぎしつ / 会議室 (kaigishitsu)",
+      "エレベーター (erebeetaa)",
+      "じむしょ / 事務所 (jimusho)"
+    ],
+    "answer": "エレベーター (erebeetaa)"
+  },
+  {
+    "question": "escalator",
+    "options": [
+      "エスカレーター (esukareetaa)",
+      "あちら / 彼方 (achira)",
+      "そちら / 其方 (sochira)"
+    ],
+    "answer": "エスカレーター (esukareetaa)"
+  },
+  {
+    "question": "company",
+    "options": [
+      "ワイン (wain)",
+      "たばこ / 煙草 (tabako)",
+      "かいしゃ / 会社 (kaisha)"
+    ],
+    "answer": "かいしゃ / 会社 (kaisha)"
+  },
+  {
+    "question": "house, home",
+    "options": [
+      "うち / いえ / 家 (uchi / ie)",
+      "ワイン (wain)",
+      "うりば / 売り場 (uriba)"
+    ],
+    "answer": "うち / いえ / 家 (uchi / ie)"
+  },
+  {
+    "question": "telephone",
+    "options": [
+      "でんわ / 電話 (denwa)",
+      "くつ / 靴 (kutsu)",
+      "たばこ / 煙草 (tabako)"
+    ],
+    "answer": "でんわ / 電話 (denwa)"
+  },
+  {
+    "question": "shoes",
+    "options": [
+      "うち / いえ / 家 (uchi / ie)",
+      "くつ / 靴 (kutsu)",
+      "たばこ / 煙草 (tabako)"
+    ],
+    "answer": "くつ / 靴 (kutsu)"
+  },
+  {
+    "question": "wine",
+    "options": [
+      "でんわ / 電話 (denwa)",
+      "くつ / 靴 (kutsu)",
+      "ワイン (wain)"
+    ],
+    "answer": "ワイン (wain)"
+  },
+  {
+    "question": "tobacco, cigarette",
+    "options": [
+      "たばこ / 煙草 (tabako)",
+      "でんわ / 電話 (denwa)",
+      "ワイン (wain)"
+    ],
+    "answer": "たばこ / 煙草 (tabako)"
+  },
+  {
+    "question": "department, counter (store)",
+    "options": [
+      "うりば / 売り場 (uriba)",
+      "ワイン (wain)",
+      "たばこ / 煙草 (tabako)"
+    ],
+    "answer": "うりば / 売り場 (uriba)"
+  },
+  {
+    "question": "basement",
+    "options": [
+      "～えん / ～円 (~en)",
+      "～かい / ～階 (~kai)",
+      "ちか / 地下 (chika)"
+    ],
+    "answer": "ちか / 地下 (chika)"
+  },
+  {
+    "question": "floor",
+    "options": [
+      "せん / 千 (sen)",
+      "～かい / ～階 (~kai)",
+      "ひゃく / 百 (hyaku)"
+    ],
+    "answer": "～かい / ～階 (~kai)"
+  },
+  {
+    "question": "which floor",
+    "options": [
+      "まん / 万 (man)",
+      "～えん / ～円 (~en)",
+      "なんがい / 何階 (nangai)"
+    ],
+    "answer": "なんがい / 何階 (nangai)"
+  },
+  {
+    "question": "yen (Japanese money)",
+    "options": [
+      "～かい / ～階 (~kai)",
+      "まん / 万 (man)",
+      "～えん / ～円 (~en)"
+    ],
+    "answer": "～えん / ～円 (~en)"
+  },
+  {
+    "question": "how much",
+    "options": [
+      "まん / 万 (man)",
+      "なんがい / 何階 (nangai)",
+      "いくら / 幾ら (ikura)"
+    ],
+    "answer": "いくら / 幾ら (ikura)"
+  },
+  {
+    "question": "hundred",
+    "options": [
+      "ひゃく / 百 (hyaku)",
+      "ちか / 地下 (chika)",
+      "～かい / ～階 (~kai)"
+    ],
+    "answer": "ひゃく / 百 (hyaku)"
+  },
+  {
+    "question": "thousand",
+    "options": [
+      "いくら / 幾ら (ikura)",
+      "せん / 千 (sen)",
+      "なんがい / 何階 (nangai)"
+    ],
+    "answer": "せん / 千 (sen)"
+  },
+  {
+    "question": "ten thousand",
+    "options": [
+      "まん / 万 (man)",
+      "せん / 千 (sen)",
+      "ちか / 地下 (chika)"
+    ],
+    "answer": "まん / 万 (man)"
+  },
+  {
+    "question": "Excuse me",
+    "options": [
+      "すみません / 済みません (sumimasen)",
+      "～でございます (~degozaimasu)",
+      "くに / おくに / 国 / お国 (kuni / okuni)"
+    ],
+    "answer": "すみません / 済みません (sumimasen)"
+  },
+  {
+    "question": "polite form of です",
+    "options": [
+      "くに / おくに / 国 / お国 (kuni / okuni)",
+      "すみません / 済みません (sumimasen)",
+      "～でございます (~degozaimasu)"
+    ],
+    "answer": "～でございます (~degozaimasu)"
+  },
+  {
+    "question": "please show me",
+    "options": [
+      "～でございます (~degozaimasu)",
+      "～をみせてください / 見せてください (~o misete kudasai)",
+      "じゃ (ja)"
+    ],
+    "answer": "～をみせてください / 見せてください (~o misete kudasai)"
+  },
+  {
+    "question": "well, then, in that case",
+    "options": [
+      "～をみせてください / 見せてください (~o misete kudasai)",
+      "じゃ (ja)",
+      "～をください / 下さい (~o kudasai)"
+    ],
+    "answer": "じゃ (ja)"
+  },
+  {
+    "question": "Give me~, please",
+    "options": [
+      "～をください / 下さい (~o kudasai)",
+      "すみません / 済みません (sumimasen)",
+      "じゃ (ja)"
+    ],
+    "answer": "～をください / 下さい (~o kudasai)"
+  },
+  {
+    "question": "country",
+    "options": [
+      "すみません / 済みません (sumimasen)",
+      "くに / おくに / 国 / お国 (kuni / okuni)",
+      "～をみせてください / 見せてください (~o misete kudasai)"
+    ],
+    "answer": "くに / おくに / 国 / お国 (kuni / okuni)"
+  },
+  {
+    "question": "necktie",
+    "options": [
+      "ネクタイ (nekutai)"
+    ],
+    "answer": "ネクタイ (nekutai)"
+  }
+]
