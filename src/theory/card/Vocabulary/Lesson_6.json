@@ -1,0 +1,214 @@
+{
+  "part 0": {
+    "side 1": "to eat",
+    "side 2": "たべます / 食べます (tabemasu)"
+  },
+  "part 1": {
+    "side 1": "to drink",
+    "side 2": "のみます / 飲む (nomimasu)"
+  },
+  "part 2": {
+    "side 1": "to smoke [cigar]",
+    "side 2": "すいます「たばこを～」 / 吸います (suimasu [tabakoo~])"
+  },
+  "part 3": {
+    "side 1": "to see/look/watch",
+    "side 2": "みます / 見ます (mimasu)"
+  },
+  "part 4": {
+    "side 1": "to hear/listen",
+    "side 2": "ききます / 聞きます (kikimasu)"
+  },
+  "part 5": {
+    "side 1": "to read",
+    "side 2": "よみます / 読みます (yomimasu)"
+  },
+  "part 6": {
+    "side 1": "to write/draw",
+    "side 2": "かきます / 書きます (kakimasu)"
+  },
+  "part 7": {
+    "side 1": "to buy/purchase",
+    "side 2": "かいます / 買います (kaimasu)"
+  },
+  "part 8": {
+    "side 1": "to take",
+    "side 2": "とります / 撮ります (torimasu) (a photo - しゃしんを～ - 写真を～)"
+  },
+  "part 9": {
+    "side 1": "to do",
+    "side 2": "します (shimasu)"
+  },
+  "part 10": {
+    "side 1": "to meet [friend]",
+    "side 2": "あいます「ともだちに～」 / 会います「友達に～」 (aimasu [tomodachini])"
+  },
+  "part 11": {
+    "side 1": "a meal",
+    "side 2": "ごはん / ご飯 (gohan) (cooked rice)"
+  },
+  "part 12": {
+    "side 1": "breakfast",
+    "side 2": "あさごはん / 朝ごはん (asagohan)"
+  },
+  "part 13": {
+    "side 1": "lunch",
+    "side 2": "ひるごはん / 昼ごはん (hirugohan)"
+  },
+  "part 14": {
+    "side 1": "dinner/supper",
+    "side 2": "ばんごはん / 晩ごはん (bangohan)"
+  },
+  "part 15": {
+    "side 1": "bread",
+    "side 2": "パン (pan)"
+  },
+  "part 16": {
+    "side 1": "egg",
+    "side 2": "たまご / 卵 (tamago)"
+  },
+  "part 17": {
+    "side 1": "meat",
+    "side 2": "にく / 肉 (niku)"
+  },
+  "part 18": {
+    "side 1": "fish",
+    "side 2": "さかな / 魚 (sakana)"
+  },
+  "part 19": {
+    "side 1": "vegetable",
+    "side 2": "やさい / 野菜 (yasai)"
+  },
+  "part 20": {
+    "side 1": "fruit",
+    "side 2": "くだもの / 果物 (kudamono)"
+  },
+  "part 21": {
+    "side 1": "water",
+    "side 2": "みず / 水 (mizu)"
+  },
+  "part 22": {
+    "side 1": "tea",
+    "side 2": "おちゃ / お茶 (ocha) (green tea)"
+  },
+  "part 23": {
+    "side 1": "black tea",
+    "side 2": "こうちゃ / 紅茶 (koucha)"
+  },
+  "part 24": {
+    "side 1": "cow’s milk",
+    "side 2": "ぎゅうにゅう / 牛乳 (gyuunyuu)"
+  },
+  "part 25": {
+    "side 1": "milk",
+    "side 2": "ミルク (miruku)"
+  },
+  "part 26": {
+    "side 1": "juice",
+    "side 2": "ジュース (juusu)"
+  },
+  "part 27": {
+    "side 1": "beer",
+    "side 2": "ビール (biiru)"
+  },
+  "part 28": {
+    "side 1": "sake",
+    "side 2": "おさけ / お酒 (osake) (Japanese rice wine)"
+  },
+  "part 29": {
+    "side 1": "football",
+    "side 2": "サッカー (sakka) ～をします - play football"
+  },
+  "part 30": {
+    "side 1": "video",
+    "side 2": "ビデオ (bideo) (videotape/video deck)"
+  },
+  "part 31": {
+    "side 1": "movie",
+    "side 2": "えいが / 映画 (eiga)"
+  },
+  "part 32": {
+    "side 1": "CD",
+    "side 2": "CD (CD)"
+  },
+  "part 33": {
+    "side 1": "letter/mail",
+    "side 2": "てがみ / 手紙 (tegami)"
+  },
+  "part 34": {
+    "side 1": "report",
+    "side 2": "レポート (repooto)"
+  },
+  "part 35": {
+    "side 1": "photo/picture",
+    "side 2": "しゃしん / 写真 (shashin)"
+  },
+  "part 36": {
+    "side 1": "store/shop",
+    "side 2": "みせ / 店 (mise)"
+  },
+  "part 37": {
+    "side 1": "restaurant",
+    "side 2": "レストラン (resutoran)"
+  },
+  "part 38": {
+    "side 1": "garden",
+    "side 2": "にわ / 庭 (niwa)"
+  },
+  "part 39": {
+    "side 1": "homework",
+    "side 2": "しゅくだい / 宿題 (shukudai) ～をします - do homework"
+  },
+  "part 40": {
+    "side 1": "tennis",
+    "side 2": "テニス (tenisu) ～をします - play tennis"
+  },
+  "part 41": {
+    "side 1": "cherry blossom viewing",
+    "side 2": "「お」はなみ / 「お」花見 ([o] hanami) ～をします - look sakura"
+  },
+  "part 42": {
+    "side 1": "What?",
+    "side 2": "なに / 何 (nani)"
+  },
+  "part 43": {
+    "side 1": "together",
+    "side 2": "うっしょに / 一緒に (isshoni)"
+  },
+  "part 44": {
+    "side 1": "a little while",
+    "side 2": "ちょっと (chyotto) a little bit"
+  },
+  "part 45": {
+    "side 1": "always/usually",
+    "side 2": "いつも / 何時も (itsumo)"
+  },
+  "part 46": {
+    "side 1": "sometimes",
+    "side 2": "ときどき (tokidoki)"
+  },
+  "part 47": {
+    "side 1": "after that",
+    "side 2": "それから (sorekara) and then"
+  },
+  "part 48": {
+    "side 1": "yes",
+    "side 2": "ええ (ei)"
+  },
+  "part 49": {
+    "side 1": "That's good",
+    "side 2": "いいですね (iidesune)"
+  },
+  "part 50": {
+    "side 1": "I see",
+    "side 2": "わかりました。 (wakarimashita)"
+  },
+  "part 51": {
+    "side 1": "Yes?",
+    "side 2": "なんですか / 何ですか (nandesuka)"
+  },
+  "part 52": {
+    "side 1": "See you [tomorrow]",
+    "side 2": "じゃ、また「あした」。 (jamata [ashita])"
+  }
+}
