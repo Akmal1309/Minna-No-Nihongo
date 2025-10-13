@@ -1,146 +1,146 @@
 {
-  "card 0": {
-    "name": "I",
-    "part 1": "わたし / 私 (watashi)"
+  "part 0": {
+    "side 1": "I",
+    "side 2": "わたし / 私 (watashi)"
   },
-  "card 1": {
-    "name": "we",
-    "part 1": "わたしたち / 私たち (watashitachi)"
+  "part 1": {
+    "side 1": "we",
+    "side 2": "わたしたち / 私たち (watashitachi)"
   },
-  "card 2": {
-    "name": "you",
-    "part 1": "あなた (anata)"
+  "part 2": {
+    "side 1": "you",
+    "side 2": "あなた (anata)"
   },
-  "card 3": {
-    "name": "that person",
-    "part 1": "あのひと / あの人 (anohito)"
+  "part 3": {
+    "side 1": "that person",
+    "side 2": "あのひと / あの人 (anohito)"
   },
-  "card 4": {
-    "name": "that person (polite)",
-    "part 1": "あのかた / あの　方 (anokata)"
+  "part 4": {
+    "side 1": "that person (polite)",
+    "side 2": "あのかた / あの　方 (anokata)"
   },
-  "card 5": {
-    "name": "we (everyone)",
-    "part 1": "みなさん / 皆さん (minasan)"
+  "part 5": {
+    "side 1": "we (everyone)",
+    "side 2": "みなさん / 皆さん (minasan)"
   },
-  "card 6": {
-    "name": "Mr./Mrs.",
-    "part 1": "～さん (～san)"
+  "part 6": {
+    "side 1": "Mr./Mrs.",
+    "side 2": "～さん (～san)"
   },
-  "card 7": {
-    "name": "child's name suffix",
-    "part 1": "～ちゃん (～chyan)"
+  "part 7": {
+    "side 1": "child's name suffix",
+    "side 2": "～ちゃん (～chyan)"
   },
-  "card 8": {
-    "name": "boy's name suffix",
-    "part 1": "～くん / ～君 (～kun)"
+  "part 8": {
+    "side 1": "boy's name suffix",
+    "side 2": "～くん / ～君 (～kun)"
   },
-  "card 9": {
-    "name": "nationality suffix",
-    "part 1": "～じん / ～人 (～jin)"
+  "part 9": {
+    "side 1": "nationality suffix",
+    "side 2": "～じん / ～人 (～jin)"
   },
-  "card 10": {
-    "name": "teacher",
-    "part 1": "せんせい / 先生 (sensei)"
+  "part 10": {
+    "side 1": "teacher",
+    "side 2": "せんせい / 先生 (sensei)"
   },
-  "card 11": {
-    "name": "instructor",
-    "part 1": "きょうし / 教室 (kyoushi)"
+  "part 11": {
+    "side 1": "instructor",
+    "side 2": "きょうし / 教室 (kyoushi)"
   },
-  "card 12": {
-    "name": "student",
-    "part 1": "がくせい / 学生 (gakusei)"
+  "part 12": {
+    "side 1": "student",
+    "side 2": "がくせい / 学生 (gakusei)"
   },
-  "card 13": {
-    "name": "company employee",
-    "part 1": "かいしゃいん / 会社員 (kaishyain)"
+  "part 13": {
+    "side 1": "company employee",
+    "side 2": "かいしゃいん / 会社員 (kaishyain)"
   },
-  "card 14": {
-    "name": "employee",
-    "part 1": "しゃいん / 社員 (shain)"
+  "part 14": {
+    "side 1": "employee",
+    "side 2": "しゃいん / 社員 (shain)"
   },
-  "card 15": {
-    "name": "bank employee",
-    "part 1": "ぎんこういん / 銀行員 (ginkouin)"
+  "part 15": {
+    "side 1": "bank employee",
+    "side 2": "ぎんこういん / 銀行員 (ginkouin)"
   },
-  "card 16": {
-    "name": "medical doctor",
-    "part 1": "いしゃ / 医者 (isha)"
+  "part 16": {
+    "side 1": "medical doctor",
+    "side 2": "いしゃ / 医者 (isha)"
   },
-  "card 17": {
-    "name": "researcher",
-    "part 1": "けんきゅうしゃ / 研究者 (kenkyuusha)"
+  "part 17": {
+    "side 1": "researcher",
+    "side 2": "けんきゅうしゃ / 研究者 (kenkyuusha)"
   },
-  "card 18": {
-    "name": "engineer",
-    "part 1": "エンジニア (enjinia)"
+  "part 18": {
+    "side 1": "engineer",
+    "side 2": "エンジニア (enjinia)"
   },
-  "card 19": {
-    "name": "university",
-    "part 1": "だいがく / 大学 (daigaku)"
+  "part 19": {
+    "side 1": "university",
+    "side 2": "だいがく / 大学 (daigaku)"
   },
-  "card 20": {
-    "name": "hospital",
-    "part 1": "びょういん / 病院 (byouin)"
+  "part 20": {
+    "side 1": "hospital",
+    "side 2": "びょういん / 病院 (byouin)"
   },
-  "card 21": {
-    "name": "electricity/light",
-    "part 1": "でんき / 電気 (denki)"
+  "part 21": {
+    "side 1": "electricity/light",
+    "side 2": "でんき / 電気 (denki)"
   },
-  "card 22": {
-    "name": "who",
-    "part 1": "だれ / 誰 (dare)"
+  "part 22": {
+    "side 1": "who",
+    "side 2": "だれ / 誰 (dare)"
   },
-  "card 23": {
-    "name": "who (polite)",
-    "part 1": "どなた / 何方 (donata)"
+  "part 23": {
+    "side 1": "who (polite)",
+    "side 2": "どなた / 何方 (donata)"
   },
-  "card 24": {
-    "name": "years old",
-    "part 1": "～さい / ～歳 (～sai)"
+  "part 24": {
+    "side 1": "years old",
+    "side 2": "～さい / ～歳 (～sai)"
   },
-  "card 25": {
-    "name": "how old",
-    "part 1": "なんさい / 何歳 (nansai)"
+  "part 25": {
+    "side 1": "how old",
+    "side 2": "なんさい / 何歳 (nansai)"
   },
-  "card 26": {
-    "name": "how old (polite)",
-    "part 1": "あいくつ (aikutsu)"
+  "part 26": {
+    "side 1": "how old (polite)",
+    "side 2": "あいくつ (aikutsu)"
   },
-  "card 27": {
-    "name": "yes",
-    "part 1": "はい (hai)"
+  "part 27": {
+    "side 1": "yes",
+    "side 2": "はい (hai)"
   },
-  "card 28": {
-    "name": "no",
-    "part 1": "いいえ (iie)"
+  "part 28": {
+    "side 1": "no",
+    "side 2": "いいえ (iie)"
   },
-  "card 29": {
-    "name": "how old (polite)",
-    "part 1": "おいくつ (oikutsu)"
+  "part 29": {
+    "side 1": "how old (polite)",
+    "side 2": "おいくつ (oikutsu)"
   },
-  "card 30": {
-    "name": "Excuse me, but",
-    "part 1": "しつれいですが / 失礼ですが (shitsureidesuga)"
+  "part 30": {
+    "side 1": "Excuse me, but",
+    "side 2": "しつれいですが / 失礼ですが (shitsureidesuga)"
   },
-  "card 31": {
-    "name": "May I have your name?",
-    "part 1": "おなまえは？ / お名前は？ (onamaewa?)"
+  "part 31": {
+    "side 1": "May I have your name?",
+    "side 2": "おなまえは？ / お名前は？ (onamaewa?)"
   },
-  "card 32": {
-    "name": "How do you do?",
-    "part 1": "はじめまして / 初めまして (hajimemashite)"
+  "part 32": {
+    "side 1": "How do you do?",
+    "side 2": "はじめまして / 初めまして (hajimemashite)"
   },
-  "card 33": {
-    "name": "Please be nice to me",
-    "part 1": "どぞよろしくおねがいします / どうぞよろしくお願いします (dozoyoroshiku onegaishimasu)"
+  "part 33": {
+    "side 1": "Please be nice to me",
+    "side 2": "どぞよろしくおねがいします / どうぞよろしくお願いします (dozoyoroshiku onegaishimasu)"
   },
-  "card 34": {
-    "name": "This is Mr./Ms.",
-    "part 1": "こちらわ～さんです (kochirawa ～sandes)"
+  "part 34": {
+    "side 1": "This is Mr./Ms.",
+    "side 2": "こちらわ～さんです (kochirawa ～sandes)"
   },
-  "card 35": {
-    "name": "I came from",
-    "part 1": "～からきました / ～から来ました (～karakimashita)"
+  "part 35": {
+    "side 1": "I came from",
+    "side 2": "～からきました / ～から来ました (～karakimashita)"
   }
 }
