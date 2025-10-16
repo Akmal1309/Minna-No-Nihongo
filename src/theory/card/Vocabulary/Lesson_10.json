@@ -1,0 +1,194 @@
+{
+  "part 0": {
+    "side 1": "exist / be (for animate things)",
+    "side 2": "います (imasu)"
+  },
+  "part 1": {
+    "side 1": "exist / be (for inanimate things)",
+    "side 2": "あります (arimasu)"
+  },
+  "part 2": {
+    "side 1": "various",
+    "side 2": "いろいろ / 色々 (iroiro)"
+  },
+  "part 3": {
+    "side 1": "man",
+    "side 2": "おとこのひと / 男の人 (otokonohito)"
+  },
+  "part 4": {
+    "side 1": "woman",
+    "side 2": "おんなのひと / 女の人 (onnanohito)"
+  },
+  "part 5": {
+    "side 1": "boy",
+    "side 2": "おとこのこ / 男の子 (otokonoko)"
+  },
+  "part 6": {
+    "side 1": "girl",
+    "side 2": "おんなのこ / 女の子 (onnanoko)"
+  },
+  "part 7": {
+    "side 1": "dog",
+    "side 2": "いぬ / 犬 (inu)"
+  },
+  "part 8": {
+    "side 1": "cat",
+    "side 2": "ねこ / 猫 (neko)"
+  },
+  "part 9": {
+    "side 1": "tree",
+    "side 2": "き / 木 (ki)"
+  },
+  "part 10": {
+    "side 1": "thing",
+    "side 2": "もの / 物 (mono)"
+  },
+  "part 11": {
+    "side 1": "film",
+    "side 2": "フィルム (firumu)"
+  },
+  "part 12": {
+    "side 1": "battery",
+    "side 2": "でんち / 電池 (denchi)"
+  },
+  "part 13": {
+    "side 1": "box",
+    "side 2": "はこ / 箱 (hako)"
+  },
+  "part 14": {
+    "side 1": "switch",
+    "side 2": "スイッチ (suicchi)"
+  },
+  "part 15": {
+    "side 1": "refrigerator",
+    "side 2": "れいぞうこ / 冷蔵庫 (reizōko)"
+  },
+  "part 16": {
+    "side 1": "table",
+    "side 2": "テーブル (tēburu)"
+  },
+  "part 17": {
+    "side 1": "bed",
+    "side 2": "ベッド (beddo)"
+  },
+  "part 18": {
+    "side 1": "shelf",
+    "side 2": "たな / 棚 (tana)"
+  },
+  "part 19": {
+    "side 1": "door",
+    "side 2": "ドア (doa)"
+  },
+  "part 20": {
+    "side 1": "window",
+    "side 2": "まど / 窓 (mado)"
+  },
+  "part 21": {
+    "side 1": "mailbox / postbox",
+    "side 2": "ポスト (posuto)"
+  },
+  "part 22": {
+    "side 1": "building",
+    "side 2": "ビル (biru)"
+  },
+  "part 23": {
+    "side 1": "coffee shop",
+    "side 2": "きっさてん / 喫茶店 (kissaten)"
+  },
+  "part 24": {
+    "side 1": "bookstore",
+    "side 2": "ほんや / 本屋 (honya)"
+  },
+  "part 25": {
+    "side 1": "~store",
+    "side 2": "～や / ～屋 (~ya)"
+  },
+  "part 26": {
+    "side 1": "taxi/train stop (terminal)",
+    "side 2": "のりば / 乗り場 (noriba)"
+  },
+  "part 27": {
+    "side 1": "prefecture",
+    "side 2": "けん / 県 (ken)"
+  },
+  "part 28": {
+    "side 1": "on / above / over",
+    "side 2": "うえ / 上 (ue)"
+  },
+  "part 29": {
+    "side 1": "under / below / beneath",
+    "side 2": "した / 下 (shita)"
+  },
+  "part 30": {
+    "side 1": "front / before",
+    "side 2": "まえ / 前 (mae)"
+  },
+  "part 31": {
+    "side 1": "back / behind",
+    "side 2": "うしろ / 後ろ (ushiro)"
+  },
+  "part 32": {
+    "side 1": "right",
+    "side 2": "みぎ / 右 (migi)"
+  },
+  "part 33": {
+    "side 1": "left",
+    "side 2": "ひだり / 左 (hidari)"
+  },
+  "part 34": {
+    "side 1": "in / inside",
+    "side 2": "なか / 中 (naka)"
+  },
+  "part 35": {
+    "side 1": "outside",
+    "side 2": "そと / 外 (soto)"
+  },
+  "part 36": {
+    "side 1": "next / next door",
+    "side 2": "となり / 隣 (tonari)"
+  },
+  "part 37": {
+    "side 1": "near / vicinity",
+    "side 2": "ちかく / 近く (chikaku)"
+  },
+  "part 38": {
+    "side 1": "between / among",
+    "side 2": "あいだ / 間 (aida)"
+  },
+  "part 39": {
+    "side 1": "~ and ~ (and so on)",
+    "side 2": "～や～「など」 (~ya~ [nado])"
+  },
+  "part 40": {
+    "side 1": "the most ~",
+    "side 2": "いちばん～ / 一番～ (ichiban~)"
+  },
+  "part 41": {
+    "side 1": "the -th shelf",
+    "side 2": "ーだんめ / 段目 (-danme)"
+  },
+  "part 42": {
+    "side 1": "Thank you / Excuse me",
+    "side 2": "どうも すみません ([dōmo] sumimasen)"
+  },
+  "part 43": {
+    "side 1": "Chilli sauce",
+    "side 2": "チリソース (chirisōsu)"
+  },
+  "part 44": {
+    "side 1": "hundred million",
+    "side 2": "おく / 億 (oku)"
+  },
+  "part 45": {
+    "side 1": "Spice corner",
+    "side 2": "スパイスコーナー (supaisu kōnā)"
+  },
+  "part 46": {
+    "side 1": "Tokyo Disneyland",
+    "side 2": "とうきょうディズニーランド / 東京ディズニーランド (Tōkyō Dizunīrando)"
+  },
+  "part 47": {
+    "side 1": "Fictitious supermarket",
+    "side 2": "ユニヤ・ストア (Yuniyā sutoa)"
+  }
+}
