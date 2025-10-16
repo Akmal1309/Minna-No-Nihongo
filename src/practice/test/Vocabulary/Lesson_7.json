@@ -1,1 +1,157 @@
-
+[
+  {
+    "question": "cut",
+    "options": ["きります / 切ります (kirimasu)", "かります / 借ります (karimasu)", "おくります / 送ります (okurimasu)"],
+    "answer": "きります / 切ります (kirimasu)"
+  },
+  {
+    "question": "send",
+    "options": ["おくります / 送ります (okurimasu)", "ならいます / 習います (naraimasu)", "かけます (kakemasu)"],
+    "answer": "おくります / 送ります (okurimasu)"
+  },
+  {
+    "question": "give",
+    "options": ["あげます (agemasu)", "もらいます (moraimasu)", "かします / 貸します (kashimasu)"],
+    "answer": "あげます (agemasu)"
+  },
+  {
+    "question": "receive",
+    "options": ["もらいます (moraimasu)", "おしえます / 教えます (oshiemasu)", "あげます (agemasu)"],
+    "answer": "もらいます (moraimasu)"
+  },
+  {
+    "question": "lend",
+    "options": ["かします / 貸します (kashimasu)", "かります / 借ります (karimasu)", "きります / 切ります (kirimasu)"],
+    "answer": "かします / 貸します (kashimasu)"
+  },
+  {
+    "question": "borrow",
+    "options": ["かります / 借ります (karimasu)", "ならいます / 習います (naraimasu)", "おくります / 送ります (okurimasu)"],
+    "answer": "かります / 借ります (karimasu)"
+  },
+  {
+    "question": "teach",
+    "options": ["おしえます / 教えます (oshiemasu)", "ならいます / 習います (naraimasu)", "かけます (kakemasu)"],
+    "answer": "おしえます / 教えます (oshiemasu)"
+  },
+  {
+    "question": "learn",
+    "options": ["ならいます / 習います (naraimasu)", "おしえます / 教えます (oshiemasu)", "かります / 借ります (karimasu)"],
+    "answer": "ならいます / 習います (naraimasu)"
+  },
+  {
+    "question": "call",
+    "options": ["かけます (kakemasu)", "きります / 切ります (kirimasu)", "おくります / 送ります (okurimasu)"],
+    "answer": "かけます (kakemasu)"
+  },
+  {
+    "question": "hand / arm",
+    "options": ["て / 手 (te)", "はな / 花 (hana)", "かみ / 紙 (kami)"],
+    "answer": "て / 手 (te)"
+  },
+  {
+    "question": "chopsticks",
+    "options": ["はし / 箸 (hashi)", "ナイフ (naifu)", "スプーン (supūn)"],
+    "answer": "はし / 箸 (hashi)"
+  },
+  {
+    "question": "spoon",
+    "options": ["スプーン (supūn)", "フォーク (fōku)", "ナイフ (naifu)"],
+    "answer": "スプーン (supūn)"
+  },
+  {
+    "question": "knife",
+    "options": ["ナイフ (naifu)", "はさみ (hasami)", "フォーク (fōku)"],
+    "answer": "ナイフ (naifu)"
+  },
+  {
+    "question": "fork",
+    "options": ["フォーク (fōku)", "スプーン (supūn)", "ナイフ (naifu)"],
+    "answer": "フォーク (fōku)"
+  },
+  {
+    "question": "scissors",
+    "options": ["はさみ (hasami)", "ナイフ (naifu)", "て / 手 (te)"],
+    "answer": "はさみ (hasami)"
+  },
+  {
+    "question": "fax",
+    "options": ["ファックス (fakkusu)", "パソコン (pasokon)", "パンチ (panchi)"],
+    "answer": "ファックス (fakkusu)"
+  },
+  {
+    "question": "word processor",
+    "options": ["ワープロ (wāpuro)", "パソコン (pasokon)", "ホッチキス (hotchikisu)"],
+    "answer": "ワープロ (wāpuro)"
+  },
+  {
+    "question": "personal computer",
+    "options": ["パソコン (pasokon)", "ワープロ (wāpuro)", "セロテープ (serotēpu)"],
+    "answer": "パソコン (pasokon)"
+  },
+  {
+    "question": "punch",
+    "options": ["パンチ (panchi)", "ホッチキス (hotchikisu)", "セロテープ (serotēpu)"],
+    "answer": "パンチ (panchi)"
+  },
+  {
+    "question": "stapler",
+    "options": ["ホッチキス (hotchikisu)", "セロテープ (serotēpu)", "パンチ (panchi)"],
+    "answer": "ホッチキス (hotchikisu)"
+  },
+  {
+    "question": "Scotch tape",
+    "options": ["セロテープ (serotēpu)", "ホッチキス (hotchikisu)", "パソコン (pasokon)"],
+    "answer": "セロテープ (serotēpu)"
+  },
+  {
+    "question": "eraser",
+    "options": ["けしゴム / 消しゴム (keshigomu)", "かみ / 紙 (kami)", "はな / 花 (hana)"],
+    "answer": "けしゴム / 消しゴム (keshigomu)"
+  },
+  {
+    "question": "paper",
+    "options": ["かみ / 紙 (kami)", "きっぷ / 切符 (kippu)", "おかね / お金 (okane)"],
+    "answer": "かみ / 紙 (kami)"
+  },
+  {
+    "question": "flower",
+    "options": ["はな / 花 (hana)", "かみ / 紙 (kami)", "て / 手 (te)"],
+    "answer": "はな / 花 (hana)"
+  },
+  {
+    "question": "shirt",
+    "options": ["シャツ (shatsu)", "プレゼント (purezento)", "にもち / 荷物 (nimotsu)"],
+    "answer": "シャツ (shatsu)"
+  },
+  {
+    "question": "present",
+    "options": ["プレゼント (purezento)", "にもち / 荷物 (nimotsu)", "おかね / お金 (okane)"],
+    "answer": "プレゼント (purezento)"
+  },
+  {
+    "question": "baggage",
+    "options": ["にもつ / 荷物 (nimotsu)", "プレゼント (purezento)", "きっぷ / 切符 (kippu)"],
+    "answer": "にもつ / 荷物 (nimotsu)"
+  },
+  {
+    "question": "money",
+    "options": ["おかね / お金 (okane)", "きっぷ / 切符 (kippu)", "かみ / 紙 (kami)"],
+    "answer": "おかね / お金 (okane)"
+  },
+  {
+    "question": "ticket",
+    "options": ["きっぷ / 切符 (kippu)", "おかね / お金 (okane)", "にもち / 荷物 (nimotsu)"],
+    "answer": "きっぷ / 切符 (kippu)"
+  },
+  {
+    "question": "souvenir",
+    "options": ["おみやげ / お土産 (omiyage)", "りょこう / 旅行 (ryokou)", "プレゼント (purezento)"],
+    "answer": "おみやげ / お土産 (omiyage)"
+  },
+  {
+    "question": "trip",
+    "options": ["りょこう / 旅行 (ryokou)", "おみやげ / お土産 (omiyage)", "にもち / 荷物 (nimotsu)"],
+    "answer": "りょこう / 旅行 (ryokou)"
+  }
+]
