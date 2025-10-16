@@ -1,0 +1,237 @@
+[
+  {
+    "question": "exist / be (for animate things)",
+    "options": ["います (imasu)", "あります (arimasu)", "なか (naka)"],
+    "answer": "います (imasu)"
+  },
+  {
+    "question": "exist / be (for inanimate things)",
+    "options": ["あります (arimasu)", "います (imasu)", "おく (oku)"],
+    "answer": "あります (arimasu)"
+  },
+  {
+    "question": "various",
+    "options": ["いろいろ (iroiro)", "もの (mono)", "ひだり (hidari)"],
+    "answer": "いろいろ (iroiro)"
+  },
+  {
+    "question": "man",
+    "options": ["おとこのひと (otokonohito)", "おんなのひと (onnanohito)", "おとこのこ (otokonoko)"],
+    "answer": "おとこのひと (otokonohito)"
+  },
+  {
+    "question": "woman",
+    "options": ["おんなのひと (onnanohito)", "おとこのひと (otokonohito)", "おんなのこ (onnanoko)"],
+    "answer": "おんなのひと (onnanohito)"
+  },
+  {
+    "question": "boy",
+    "options": ["おとこのこ (otokonoko)", "おんなのこ (onnanoko)", "いぬ (inu)"],
+    "answer": "おとこのこ (otokonoko)"
+  },
+  {
+    "question": "girl",
+    "options": ["おんなのこ (onnanoko)", "おとこのこ (otokonoko)", "ねこ (neko)"],
+    "answer": "おんなのこ (onnanoko)"
+  },
+  {
+    "question": "dog",
+    "options": ["いぬ (inu)", "ねこ (neko)", "もの (mono)"],
+    "answer": "いぬ (inu)"
+  },
+  {
+    "question": "cat",
+    "options": ["ねこ (neko)", "いぬ (inu)", "き (ki)"],
+    "answer": "ねこ (neko)"
+  },
+  {
+    "question": "tree",
+    "options": ["き (ki)", "もの (mono)", "たな (tana)"],
+    "answer": "き (ki)"
+  },
+  {
+    "question": "thing",
+    "options": ["もの (mono)", "き (ki)", "ドア (doa)"],
+    "answer": "もの (mono)"
+  },
+  {
+    "question": "film",
+    "options": ["フィルム (firumu)", "スイッチ (suicchi)", "ベッド (beddo)"],
+    "answer": "フィルム (firumu)"
+  },
+  {
+    "question": "battery",
+    "options": ["でんち (denchi)", "はこ (hako)", "ドア (doa)"],
+    "answer": "でんち (denchi)"
+  },
+  {
+    "question": "box",
+    "options": ["はこ (hako)", "たな (tana)", "テーブル (teiburu)"],
+    "answer": "はこ (hako)"
+  },
+  {
+    "question": "switch",
+    "options": ["スイッチ (suicchi)", "ベッド (beddo)", "ドア (doa)"],
+    "answer": "スイッチ (suicchi)"
+  },
+  {
+    "question": "refrigerator",
+    "options": ["れいぞうこ (reizōko)", "テーブル (teiburu)", "ポスト (posuto)"],
+    "answer": "れいぞうこ (reizōko)"
+  },
+  {
+    "question": "table",
+    "options": ["テーブル (teiburu)", "ベッド (beddo)", "ドア (doa)"],
+    "answer": "テーブル (teiburu)"
+  },
+  {
+    "question": "bed",
+    "options": ["ベッド (beddo)", "テーブル (teiburu)", "まど (mado)"],
+    "answer": "ベッド (beddo)"
+  },
+  {
+    "question": "shelf",
+    "options": ["たな (tana)", "はこ (hako)", "テーブル (teiburu)"],
+    "answer": "たな (tana)"
+  },
+  {
+    "question": "door",
+    "options": ["ドア (doa)", "まど (mado)", "ポスト (posuto)"],
+    "answer": "ドア (doa)"
+  },
+  {
+    "question": "window",
+    "options": ["まど (mado)", "ドア (doa)", "テーブル (teiburu)"],
+    "answer": "まど (mado)"
+  },
+  {
+    "question": "mailbox / postbox",
+    "options": ["ポスト (posuto)", "ビル (biru)", "ほんや (honya)"],
+    "answer": "ポスト (posuto)"
+  },
+  {
+    "question": "building",
+    "options": ["ビル (biru)", "ポスト (posuto)", "きっさてん (kissaten)"],
+    "answer": "ビル (biru)"
+  },
+  {
+    "question": "coffee shop",
+    "options": ["きっさてん (kissaten)", "ほんや (honya)", "ビル (biru)"],
+    "answer": "きっさてん (kissaten)"
+  },
+  {
+    "question": "bookstore",
+    "options": ["ほんや (honya)", "きっさてん (kissaten)", "ポスト (posuto)"],
+    "answer": "ほんや (honya)"
+  },
+  {
+    "question": "taxi/train stop (terminal)",
+    "options": ["のりば (noriba)", "ビル (biru)", "けん (ken)"],
+    "answer": "のりば (noriba)"
+  },
+  {
+    "question": "prefecture",
+    "options": ["けん (ken)", "のりば (noriba)", "まえ (mae)"],
+    "answer": "けん (ken)"
+  },
+  {
+    "question": "on / above / over",
+    "options": ["うえ (ue)", "した (shita)", "まえ (mae)"],
+    "answer": "うえ (ue)"
+  },
+  {
+    "question": "under / below / beneath",
+    "options": ["した (shita)", "うえ (ue)", "まえ (mae)"],
+    "answer": "した (shita)"
+  },
+  {
+    "question": "front / before",
+    "options": ["まえ (mae)", "うしろ (ushiro)", "みぎ (migi)"],
+    "answer": "まえ (mae)"
+  },
+  {
+    "question": "back / behind",
+    "options": ["うしろ (ushiro)", "まえ (mae)", "ひだり (hidari)"],
+    "answer": "うしろ (ushiro)"
+  },
+  {
+    "question": "right",
+    "options": ["みぎ (migi)", "ひだり (hidari)", "そと (soto)"],
+    "answer": "みぎ (migi)"
+  },
+  {
+    "question": "left",
+    "options": ["ひだり (hidari)", "みぎ (migi)", "なか (naka)"],
+    "answer": "ひだり (hidari)"
+  },
+  {
+    "question": "in / inside",
+    "options": ["なか (naka)", "そと (soto)", "あいだ (aida)"],
+    "answer": "なか (naka)"
+  },
+  {
+    "question": "outside",
+    "options": ["そと (soto)", "なか (naka)", "ちかく (chikaku)"],
+    "answer": "そと (soto)"
+  },
+  {
+    "question": "next / next door",
+    "options": ["となり (tonari)", "ちかく (chikaku)", "あいだ (aida)"],
+    "answer": "となり (tonari)"
+  },
+  {
+    "question": "near / vicinity",
+    "options": ["ちかく (chikaku)", "となり (tonari)", "まえ (mae)"],
+    "answer": "ちかく (chikaku)"
+  },
+  {
+    "question": "between / among",
+    "options": ["あいだ (aida)", "なか (naka)", "した (shita)"],
+    "answer": "あいだ (aida)"
+  },
+  {
+    "question": "~ and ~ (and so on)",
+    "options": ["～や～ (ya~)", "いちばん～ (ichiban~)", "～だんめ (-danme)"],
+    "answer": "～や～ (ya~)"
+  },
+  {
+    "question": "the most ~",
+    "options": ["いちばん～ (ichiban~)", "～や～ (ya~)", "おく (oku)"],
+    "answer": "いちばん～ (ichiban~)"
+  },
+  {
+    "question": "the -th shelf",
+    "options": ["ーだんめ (-danme)", "いちばん～ (ichiban~)", "たな (tana)"],
+    "answer": "ーだんめ (-danme)"
+  },
+  {
+    "question": "Thank you / Excuse me",
+    "options": ["どうも すみません ([doumo] sumimasen)", "ありがとう (arigatou)", "ごめんなさい (gomennasai)"],
+    "answer": "どうも すみません ([doumo] sumimasen)"
+  },
+  {
+    "question": "Chilli sauce",
+    "options": ["チリソース (chirisōsu)", "スパイスコーナー (supaisu kōnā)", "フィルム (firumu)"],
+    "answer": "チリソース (chirisōsu)"
+  },
+  {
+    "question": "hundred million",
+    "options": ["おく (oku)", "まえ (mae)", "けん (ken)"],
+    "answer": "おく (oku)"
+  },
+  {
+    "question": "Spice corner",
+    "options": ["スパイスコーナー (supaisu kōnā)", "チリソース (chirisōsu)", "ほんや (honya)"],
+    "answer": "スパイスコーナー (supaisu kōnā)"
+  },
+  {
+    "question": "Tokyo Disneyland",
+    "options": ["とうきょうディズニーランド (Tōkyō Dizunīrando)", "ビル (biru)", "スパイスコーナー (supaisu kōnā)"],
+    "answer": "とうきょうディズニーランド (Tōkyō Dizunīrando)"
+  },
+  {
+    "question": "Fictitious supermarket",
+    "options": ["ユニヤ・ストア (Yuniyā sutoa)", "ポスト (posuto)", "きっさてん (kissaten)"],
+    "answer": "ユニヤ・ストア (Yuniyā sutoa)"
+  }
+]
