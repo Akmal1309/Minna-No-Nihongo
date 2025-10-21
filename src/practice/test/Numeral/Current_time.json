@@ -1,1 +1,245 @@
-
+[
+  {
+    "question": "1 o'clock",
+    "options": [
+      "さんじゅっぷん / はん (sanjuppun / han)",
+      "いちじ (ichiji)",
+      "なんじ (nanji)"
+    ],
+    "answer": "いちじ (ichiji)"
+  },
+  {
+    "question": "2 o'clock",
+    "options": [
+      "にじ (niji)",
+      "じゅういっぷん (juuippun)",
+      "いちじ (ichiji)"
+    ],
+    "answer": "にじ (niji)"
+  },
+  {
+    "question": "3 o'clock",
+    "options": [
+      "よんぷん (yonpun)",
+      "さんじ (sanji)",
+      "ろくじ (rokuji)"
+    ],
+    "answer": "さんじ (sanji)"
+  },
+  {
+    "question": "4 o'clock",
+    "options": [
+      "じゅういちじ (juuichiji)",
+      "くじ (kuji)",
+      "よじ (yoji)"
+    ],
+    "answer": "よじ (yoji)"
+  },
+  {
+    "question": "5 o'clock",
+    "options": [
+      "くじ (kuji)",
+      "ごじ (goji)",
+      "じゅうにじ (juuniji)"
+    ],
+    "answer": "ごじ (goji)"
+  },
+  {
+    "question": "6 o'clock",
+    "options": [
+      "じゅういっぷん (juuippun)",
+      "ろくじ (rokuji)",
+      "なんぷん (nanpun)"
+    ],
+    "answer": "ろくじ (rokuji)"
+  },
+  {
+    "question": "7 o'clock",
+    "options": [
+      "ごふん (gofun)",
+      "しちじ (shichiji)",
+      "ろっぷん (roppun)"
+    ],
+    "answer": "しちじ (shichiji)"
+  },
+  {
+    "question": "8 o'clock",
+    "options": [
+      "じゅういっぷん (juuippun)",
+      "はちじ (hachiji)",
+      "きゅうふん (kyuufun)"
+    ],
+    "answer": "はちじ (hachiji)"
+  },
+  {
+    "question": "9 o'clock",
+    "options": [
+      "にふん (nifun)",
+      "くじ (kuji)",
+      "しちじ (shichiji)"
+    ],
+    "answer": "くじ (kuji)"
+  },
+  {
+    "question": "10 o'clock",
+    "options": [
+      "ごふん (gofun)",
+      "じゅうじ (juuji)",
+      "ろっぷん (roppun)"
+    ],
+    "answer": "じゅうじ (juuji)"
+  },
+  {
+    "question": "11 o'clock",
+    "options": [
+      "くじ (kuji)",
+      "ごじ (goji)",
+      "じゅういちじ (juuichiji)"
+    ],
+    "answer": "じゅういちじ (juuichiji)"
+  },
+  {
+    "question": "12 o'clock",
+    "options": [
+      "ろくじ (rokuji)",
+      "よんぷん (yonpun)",
+      "じゅうにじ (juuniji)"
+    ],
+    "answer": "じゅうにじ (juuniji)"
+  },
+  {
+    "question": "What time?",
+    "options": [
+      "はっぷん (happun)",
+      "なんじ (nanji)",
+      "じゅうごふん (juugofun)"
+    ],
+    "answer": "なんじ (nanji)"
+  },
+  {
+    "question": "1 minute",
+    "options": [
+      "いっぷん (ippun)",
+      "じゅうじ (juuji)",
+      "ごふん (gofun)"
+    ],
+    "answer": "いっぷん (ippun)"
+  },
+  {
+    "question": "2 minutes",
+    "options": [
+      "にふん (nifun)",
+      "ごふん (gofun)",
+      "さんじゅっぷん / はん (sanjuppun / han)"
+    ],
+    "answer": "にふん (nifun)"
+  },
+  {
+    "question": "3 minutes",
+    "options": [
+      "ごじ (goji)",
+      "いちじ (ichiji)",
+      "さんぷん (sanpun)"
+    ],
+    "answer": "さんぷん (sanpun)"
+  },
+  {
+    "question": "4 minutes",
+    "options": [
+      "ごふん (gofun)",
+      "よんぷん (yonpun)",
+      "くじ (kuji)"
+    ],
+    "answer": "よんぷん (yonpun)"
+  },
+  {
+    "question": "5 minutes",
+    "options": [
+      "ごふん (gofun)",
+      "ろくじ (rokuji)",
+      "しちじ (shichiji)"
+    ],
+    "answer": "ごふん (gofun)"
+  },
+  {
+    "question": "6 minutes",
+    "options": [
+      "いちじ (ichiji)",
+      "ろっぷん (roppun)",
+      "いっぷん (ippun)"
+    ],
+    "answer": "ろっぷん (roppun)"
+  },
+  {
+    "question": "7 minutes",
+    "options": [
+      "さんぷん (sanpun)",
+      "じゅうじ (juuji)",
+      "ななふん (nanafun)"
+    ],
+    "answer": "ななふん (nanafun)"
+  },
+  {
+    "question": "8 minutes",
+    "options": [
+      "ろくじ (rokuji)",
+      "にじ (niji)",
+      "はっぷん (happun)"
+    ],
+    "answer": "はっぷん (happun)"
+  },
+  {
+    "question": "9 minutes",
+    "options": [
+      "じゅうごふん (juugofun)",
+      "きゅうふん (kyuufun)",
+      "しちじ (shichiji)"
+    ],
+    "answer": "きゅうふん (kyuufun)"
+  },
+  {
+    "question": "10 minutes",
+    "options": [
+      "いっぷん (ippun)",
+      "じゅっぷん (juppun)",
+      "ろっぷん (roppun)"
+    ],
+    "answer": "じゅっぷん (juppun)"
+  },
+  {
+    "question": "11 minutes",
+    "options": [
+      "じゅういっぷん (juuippun)",
+      "ろくじ (rokuji)",
+      "じゅっぷん (juppun)"
+    ],
+    "answer": "じゅういっぷん (juuippun)"
+  },
+  {
+    "question": "15 minutes",
+    "options": [
+      "ろっぷん (roppun)",
+      "さんじゅっぷん / はん (sanjuppun / han)",
+      "じゅうごふん (juugofun)"
+    ],
+    "answer": "じゅうごふん (juugofun)"
+  },
+  {
+    "question": "30 minutes / half past",
+    "options": [
+      "くじ (kuji)",
+      "なんぷん (nanpun)",
+      "さんじゅっぷん / はん (sanjuppun / han)"
+    ],
+    "answer": "さんじゅっぷん / はん (sanjuppun / han)"
+  },
+  {
+    "question": "How many minutes?",
+    "options": [
+      "なんぷん (nanpun)",
+      "きゅうふん (kyuufun)",
+      "ごふん (gofun)"
+    ],
+    "answer": "なんぷん (nanpun)"
+  }
+]
