@@ -10,6 +10,6 @@
 | eighth                 | ようか     | 八日    | youka          |
 | ninth                  | ここのか    | 九日    | kokonoka       |
 | tenth                  | とおか     | 十日    | tooka          |
-| fourteenth             | じゅうよっか  | 十四日   | **juuyokka**   |
+| fourteenth             | じゅうよっか  | 十四日   | juuyokka   |
 | twentieth              | はつか     | 二十日   | hatsuka        |
-| twenty-fourth          | にじゅうよっか | 二十四日  | **nijuuyokka** |
+| twenty-fourth          | にじゅうよっか | 二十四日  | nijuuyokka |
