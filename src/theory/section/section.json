@@ -19,6 +19,8 @@
   },
   "section 2": {
     "name": "Numeral",
-    "part 1": "Current time"
+    "part 1": "Current time",
+    "part 2": "Days of the week",
+    "part 3": "Date"
   }
 }
