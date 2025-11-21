@@ -1,0 +1,35 @@
+{
+  "part 0": {
+    "question": "にちようび",
+    "answer": "Sunday"
+  },
+  "part 1": {
+    "question": "げつようび",
+    "answer": "Monday"
+  },
+  "part 2": {
+    "question": "かようび",
+    "answer": "Tuesday"
+  },
+  "part 3": {
+    "question": "すいようび",
+    "answer": "Wednesday"
+  },
+  "part 4": {
+    "question": "もくようび",
+    "answer": "Thursday"
+  }
+,
+  "part 5": {
+    "question": "きんようび",
+    "answer": "Friday"
+  },
+  "part 6": {
+    "question": "どようび",
+    "answer": "Saturday"
+  },
+  "part 7": {
+    "question": "なんようび",
+    "answer": "What day of the week?"
+  }
+}
