@@ -1,0 +1,74 @@
+[
+  {
+    "question": "Sunday",
+    "options": [
+      "にちようび (nichiyoubi)",
+      "きんようび (kin'youbi)",
+      "かようび (kayoubi)"
+    ],
+    "answer": "にちようび (nichiyoubi)"
+  },
+  {
+    "question": "Monday",
+    "options": [
+      "げつようび (getsuyoubi)",
+      "すいようび (suiyoubi)",
+      "どようび (doyoubi)"
+    ],
+    "answer": "げつようび (getsuyoubi)"
+  },
+  {
+    "question": "Tuesday",
+    "options": [
+      "もくようび (mokuyoubi)",
+      "かようび (kayoubi)",
+      "なんようび (nanyoubi)"
+    ],
+    "answer": "かようび (kayoubi)"
+  },
+  {
+    "question": "Wednesday",
+    "options": [
+      "すいようび (suiyoubi)",
+      "げつようび (getsuyoubi)",
+      "きんようび (kin'youbi)"
+    ],
+    "answer": "すいようび (suiyoubi)"
+  },
+  {
+    "question": "Thursday",
+    "options": [
+      "もくようび (mokuyoubi)",
+      "にちようび (nichiyoubi)",
+      "なんようび (nanyoubi)"
+    ],
+    "answer": "もくようび (mokuyoubi)"
+  },
+  {
+    "question": "Friday",
+    "options": [
+      "きんようび (kin'youbi)",
+      "どようび (doyoubi)",
+      "すいようび (suiyoubi)"
+    ],
+    "answer": "きんようび (kin'youbi)"
+  },
+  {
+    "question": "Saturday",
+    "options": [
+      "どようび (doyoubi)",
+      "にちようび (nichiyoubi)",
+      "げつようび (getsuyoubi)"
+    ],
+    "answer": "どようび (doyoubi)"
+  },
+  {
+    "question": "What day of the week?",
+    "options": [
+      "なんようび (nanyoubi)",
+      "もくようび (mokuyoubi)",
+      "かようび (kayoubi)"
+    ],
+    "answer": "なんようび (nanyoubi)"
+  }
+]
